@@ -1,0 +1,2087 @@
+#AD 0
+#AR 1
+#AU 2
+#BE 3
+#BY 4
+#CN 5
+#CA 6
+#BR 7
+#EG 8
+#CY 9
+#DE 10
+#RU 11
+#IT 12
+#JP 13
+#FR 14
+#GB 15
+#AT 16
+#BA 17
+#CL 18
+#CU 19
+#EE 20
+#GR 21
+#GE 22
+#IN 23
+#JM 24
+#IR 25
+#NR 26
+#NO 27
+#KP 28
+#PH 29
+#SO 30
+#TH 31
+#TR 32
+Country:
+    AD:
+      name: "Andorra"
+      code: "AD"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AD"
+    AR:
+      name: "Argentina"
+      code: "AR"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AR"
+    AU:
+      name: "Australia"
+      code: "AU"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AU"
+    BE:
+      name: "Belgium"
+      code: "BE"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BE"
+    BY:
+      name: "Belarus"
+      code: "BY"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BY"
+    CN:
+      name: "China"
+      code: "CN"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CN"
+    CA:
+      name: "Canada"
+      code: "CA"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CA"
+    BR:
+      name: "Brazil"
+      code: "BR"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BR"
+    EG:
+      name: "Egypt"
+      code: "EG"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=EG"
+    CY:
+      name: "Cyprus"
+      code: "CY"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CY"
+    DE:
+      name: "Germany"
+      code: "DE"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=DE"
+    RU:
+      name: "Russia"
+      code: "RU"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=RU"
+    IT:
+      name: "Italy"
+      code: "IT"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IT"
+    JP:
+      name: "Japan"
+      code: "JP"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=JP"
+    FR:
+      name: "France"
+      code: "FR"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=FR"
+    GB:
+      name: "United Kingdom"
+      code: "GB"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GB"
+    AT:
+      name: "Austria"
+      code: "AT"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AT"
+    BA:
+      name: "Bosnia and Herzegovina"
+      code: "BA"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BA"
+    CL:
+      name: "Chile"
+      code: "CL"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CL"
+    CU:
+      name: "Cuba"
+      code: "CU"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CU"
+    EE:
+      name: "Estonia"
+      code: "EE"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=EE"
+    GR:
+      name: "Greece"
+      code: "GR"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GR"
+    GE:
+      name: "Georgia"
+      code: "GE"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GE"
+    IN:
+      name: "India"
+      code: "IN"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IN"
+    JM:
+      name: "Jamaica"
+      code: "JM"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=JM"
+    IR:
+      name: "Iran"
+      code: "IR"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IR"
+    NR:
+      name: "Nauru"
+      code: "NR"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NR"
+    NO:
+      name: "Norway"
+      code: "NO"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NO"
+    KP:
+      name: "North Korea"
+      code: "KP"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KP"
+    PH:
+      name: "Philippines"
+      code: "PH"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PH"
+    SO:
+      name: "Somalia"
+      code: "SO"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SO"
+    TH:
+      name: "Thailand"
+      code: "TH"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TH"
+    TR:
+      name: "Turkey"
+      code: "TR"
+      parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TR"
+City:
+    N0:
+      Country: AD
+      name: "Andorra la Vella"
+      gid: 3041563
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=3041563&la=1"
+    N1:
+      Country: AD
+      name: "Pas de la Casa"
+      gid: 3039604
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3039604&la=1"
+    N2:
+      Country: AR
+      name: "Buenos Aires"
+      gid: 3435910
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=3435910&la=1"
+    N3:
+      Country: AR
+      name: "Cordoba"
+      gid: 3860259
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3860259&la=1"
+    N4:
+      Country: AR
+      name: "Rosario"
+      gid: 3838583
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3838583&la=1"
+    N5:
+      Country: AR
+      name: "Mendoza"
+      gid: 3844421
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3844421&la=1"
+    N6:
+      Country: AR
+      name: "San Miguel de Tucuman"
+      gid: 3836873
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3836873&la=1"
+    N7:
+      Country: AR
+      name: "La Plata"
+      gid: 3432043
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3432043&la=1"
+    N8:
+      Country: AR
+      name: "Mar del Plata"
+      gid: 3430863
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3430863&la=1"
+    N9:
+      Country: AR
+      name: "Salta"
+      gid: 3838233
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3838233&la=1"
+    N10:
+      Country: AR
+      name: "Santa Fe"
+      gid: 3836277
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3836277&la=1"
+    N11:
+      Country: AR
+      name: "San Juan"
+      gid: 3837213
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3837213&la=1"
+    N12:
+      Country: AU
+      name: "Canberra"
+      gid: 2172517
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=2172517&la=1"
+    N13:
+      Country: AU
+      name: "Sydney"
+      gid: 2147714
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2147714&la=1"
+    N14:
+      Country: AU
+      name: "Melbourne"
+      gid: 2158177
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2158177&la=1"
+    N15:
+      Country: AU
+      name: "Perth"
+      gid: 2063523
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2063523&la=1"
+    N16:
+      Country: AU
+      name: "Adelaide"
+      gid: 2078025
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2078025&la=1"
+    N17:
+      Country: AU
+      name: "Newcastle"
+      gid: 2155472
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2155472&la=1"
+    N18:
+      Country: AU
+      name: "Wollongong"
+      gid: 2171507
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2171507&la=1"
+    N19:
+      Country: AU
+      name: "Cairns"
+      gid: 2172797
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2172797&la=1"
+    N20:
+      Country: AU
+      name: "Geelong West"
+      gid: 2165796
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2165796&la=1"
+    N21:
+      Country: AU
+      name: "Townsville"
+      gid: 2146142
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2146142&la=1"
+    N22:
+      Country: BE
+      name: "Brussels"
+      gid: 2800866
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=2800866&la=1"
+    N23:
+      Country: BE
+      name: "Antwerp"
+      gid: 2803138
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2803138&la=1"
+    N24:
+      Country: BE
+      name: "Gent"
+      gid: 2797656
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2797656&la=1"
+    N25:
+      Country: BE
+      name: "Charleroi"
+      gid: 2800481
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2800481&la=1"
+    N26:
+      Country: BE
+      name: "Liege"
+      gid: 2792413
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2792413&la=1"
+    N27:
+      Country: BE
+      name: "Brugge"
+      gid: 2800931
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2800931&la=1"
+    N28:
+      Country: BE
+      name: "Namur"
+      gid: 2790471
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2790471&la=1"
+    N29:
+      Country: BE
+      name: "Leuven"
+      gid: 2792482
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2792482&la=1"
+    N30:
+      Country: BE
+      name: "Mons"
+      gid: 2790869
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2790869&la=1"
+    N31:
+      Country: BE
+      name: "Aalst"
+      gid: 2803448
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2803448&la=1"
+    N32:
+      Country: BY
+      name: "Minsk"
+      gid: 625144
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=625144&la=1"
+    N33:
+      Country: BY
+      name: "Homyel'"
+      gid: 627907
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=627907&la=1"
+    N34:
+      Country: BY
+      name: "Hrodna"
+      gid: 627904
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=627904&la=1"
+    N35:
+      Country: BY
+      name: "Brest"
+      gid: 629634
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=629634&la=1"
+    N36:
+      Country: BY
+      name: "Babruysk"
+      gid: 630468
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=630468&la=1"
+    N37:
+      Country: BY
+      name: "Baranavichy"
+      gid: 630429
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=630429&la=1"
+    N38:
+      Country: BY
+      name: "Pinsk"
+      gid: 623549
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=623549&la=1"
+    N39:
+      Country: BY
+      name: "Orsha"
+      gid: 624079
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=624079&la=1"
+    N40:
+      Country: BY
+      name: "Mazyr"
+      gid: 625324
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=625324&la=1"
+    N41:
+      Country: BY
+      name: "Salihorsk"
+      gid: 622428
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=622428&la=1"
+    N42:
+      Country: CN
+      name: "Beijing"
+      gid: 1816670
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=1816670&la=1"
+    N43:
+      Country: CN
+      name: "Shanghai"
+      gid: 1796236
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1796236&la=1"
+    N44:
+      Country: CN
+      name: "Wuhan"
+      gid: 1791247
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1791247&la=1"
+    N45:
+      Country: CN
+      name: "Chongqing"
+      gid: 1814906
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1814906&la=1"
+    N46:
+      Country: CN
+      name: "Chengdu"
+      gid: 1815286
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1815286&la=1"
+    N47:
+      Country: CN
+      name: "Tianjin"
+      gid: 1792947
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1792947&la=1"
+    N48:
+      Country: CN
+      name: "Shenyang"
+      gid: 2034937
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2034937&la=1"
+    N49:
+      Country: CN
+      name: "Harbin"
+      gid: 2037013
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2037013&la=1"
+    N50:
+      Country: CN
+      name: "Guangzhou"
+      gid: 1809858
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1809858&la=1"
+    N51:
+      Country: CN
+      name: "Nanjing"
+      gid: 1799962
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1799962&la=1"
+    N52:
+      Country: CA
+      name: "Ottawa"
+      gid: 6094817
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=6094817&la=1"
+    N53:
+      Country: CA
+      name: "Toronto"
+      gid: 6167865
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=6167865&la=1"
+    N54:
+      Country: CA
+      name: "Montreal"
+      gid: 6077243
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=6077243&la=1"
+    N55:
+      Country: CA
+      name: "Vancouver"
+      gid: 6173331
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=6173331&la=1"
+    N56:
+      Country: CA
+      name: "Calgary"
+      gid: 5913490
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=5913490&la=1"
+    N57:
+      Country: CA
+      name: "Winnipeg"
+      gid: 6183235
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=6183235&la=1"
+    N58:
+      Country: CA
+      name: "Kitchener"
+      gid: 5992996
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=5992996&la=1"
+    N59:
+      Country: CA
+      name: "London"
+      gid: 6058560
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=6058560&la=1"
+    N60:
+      Country: CA
+      name: "Victoria"
+      gid: 6174041
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=6174041&la=1"
+    N61:
+      Country: CA
+      name: "Halifax"
+      gid: 5969427
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=5969427&la=1"
+    N62:
+      Country: BR
+      name: "Brasilia"
+      gid: 3469058
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=3469058&la=1"
+    N63:
+      Country: BR
+      name: "Sao Paulo"
+      gid: 3448439
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3448439&la=1"
+    N64:
+      Country: BR
+      name: "Rio de Janeiro"
+      gid: 3451190
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3451190&la=1"
+    N65:
+      Country: BR
+      name: "Salvador"
+      gid: 3450554
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3450554&la=1"
+    N66:
+      Country: BR
+      name: "Belo Horizonte"
+      gid: 3470127
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3470127&la=1"
+    N67:
+      Country: BR
+      name: "Curitiba"
+      gid: 3464975
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3464975&la=1"
+    N68:
+      Country: BR
+      name: "Manaus"
+      gid: 3663517
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3663517&la=1"
+    N69:
+      Country: BR
+      name: "Recife"
+      gid: 3390760
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3390760&la=1"
+    N70:
+      Country: BR
+      name: "Belem"
+      gid: 3405870
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3405870&la=1"
+    N71:
+      Country: BR
+      name: "Porto Alegre"
+      gid: 3452925
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3452925&la=1"
+    N72:
+      Country: EG
+      name: "Cairo"
+      gid: 360630
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=360630&la=1"
+    N73:
+      Country: EG
+      name: "Alexandria"
+      gid: 361058
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=361058&la=1"
+    N74:
+      Country: EG
+      name: "Suez"
+      gid: 359796
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=359796&la=1"
+    N75:
+      Country: EG
+      name: "Al Mahallah al Kubra"
+      gid: 360829
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=360829&la=1"
+    N76:
+      Country: EG
+      name: "Luxor"
+      gid: 360502
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=360502&la=1"
+    N77:
+      Country: EG
+      name: "Asyut"
+      gid: 359783
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=359783&la=1"
+    N78:
+      Country: EG
+      name: "Al Mansurah"
+      gid: 360761
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=360761&la=1"
+    N79:
+      Country: EG
+      name: "Al Fayyum"
+      gid: 361320
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=361320&la=1"
+    N80:
+      Country: EG
+      name: "Az Zaqaziq"
+      gid: 359493
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=359493&la=1"
+    N81:
+      Country: EG
+      name: "Ismailia"
+      gid: 361055
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=361055&la=1"
+    N82:
+      Country: CY
+      name: "Nicosia"
+      gid: 146268
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=146268&la=1"
+    N83:
+      Country: CY
+      name: "Limassol"
+      gid: 146384
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=146384&la=1"
+    N84:
+      Country: CY
+      name: "Larnaca"
+      gid: 146400
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=146400&la=1"
+    N85:
+      Country: CY
+      name: "Famagusta"
+      gid: 146617
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=146617&la=1"
+    N86:
+      Country: CY
+      name: "Paphos"
+      gid: 146214
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=146214&la=1"
+    N87:
+      Country: CY
+      name: "Morphou"
+      gid: 146286
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=146286&la=1"
+    N88:
+      Country: CY
+      name: "Rizokarpaso"
+      gid: 146105
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=146105&la=1"
+    N89:
+      Country: CY
+      name: "Lefkoniko"
+      gid: 146391
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=146391&la=1"
+    N90:
+      Country: CY
+      name: "Lythrodhondas"
+      gid: 146358
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=146358&la=1"
+    N91:
+      Country: CY
+      name: "Polis"
+      gid: 146137
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=146137&la=1"
+    N92:
+      Country: DE
+      name: "Berlin"
+      gid: 2950159
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=2950159&la=1"
+    N93:
+      Country: DE
+      name: "Hamburg"
+      gid: 2911298
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2911298&la=1"
+    N94:
+      Country: DE
+      name: "Munich"
+      gid: 2867714
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2867714&la=1"
+    N95:
+      Country: DE
+      name: "Cologne"
+      gid: 2886242
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2886242&la=1"
+    N96:
+      Country: DE
+      name: "Essen"
+      gid: 2928810
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2928810&la=1"
+    N97:
+      Country: DE
+      name: "Stuttgart"
+      gid: 2825297
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2825297&la=1"
+    N98:
+      Country: DE
+      name: "Dortmund"
+      gid: 2935517
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2935517&la=1"
+    N99:
+      Country: DE
+      name: "Dusseldorf"
+      gid: 2934246
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2934246&la=1"
+    N100:
+      Country: DE
+      name: "Bremen"
+      gid: 2944388
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2944388&la=1"
+    N101:
+      Country: DE
+      name: "Hannover"
+      gid: 2910831
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2910831&la=1"
+    N102:
+      Country: RU
+      name: "Moscow"
+      gid: 524901
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=524901&la=1"
+    N103:
+      Country: RU
+      name: "Saint Petersburg"
+      gid: 498817
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=498817&la=1"
+    N104:
+      Country: RU
+      name: "Novosibirsk"
+      gid: 1496747
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1496747&la=1"
+    N105:
+      Country: RU
+      name: "Yekaterinburg"
+      gid: 1486209
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1486209&la=1"
+    N106:
+      Country: RU
+      name: "Nizhniy Novgorod"
+      gid: 520555
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=520555&la=1"
+    N107:
+      Country: RU
+      name: "Samara"
+      gid: 499099
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=499099&la=1"
+    N108:
+      Country: RU
+      name: "Omsk"
+      gid: 1496153
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1496153&la=1"
+    N109:
+      Country: RU
+      name: "Kazan'"
+      gid: 551487
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=551487&la=1"
+    N110:
+      Country: RU
+      name: "Rostov-na-Donu"
+      gid: 501175
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=501175&la=1"
+    N111:
+      Country: RU
+      name: "Chelyabinsk"
+      gid: 1508291
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1508291&la=1"
+    N112:
+      Country: IT
+      name: "Rome"
+      gid: 3169070
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=3169070&la=1"
+    N113:
+      Country: IT
+      name: "Milan"
+      gid: 3173435
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3173435&la=1"
+    N114:
+      Country: IT
+      name: "Naples"
+      gid: 3172394
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3172394&la=1"
+    N115:
+      Country: IT
+      name: "Turin"
+      gid: 3165524
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3165524&la=1"
+    N116:
+      Country: IT
+      name: "Palermo"
+      gid: 2523920
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2523920&la=1"
+    N117:
+      Country: IT
+      name: "Genoa"
+      gid: 3176219
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3176219&la=1"
+    N118:
+      Country: IT
+      name: "Bologna"
+      gid: 3181928
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3181928&la=1"
+    N119:
+      Country: IT
+      name: "Florence"
+      gid: 3176959
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3176959&la=1"
+    N120:
+      Country: IT
+      name: "Bari"
+      gid: 3182351
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3182351&la=1"
+    N121:
+      Country: IT
+      name: "Catania"
+      gid: 2525068
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2525068&la=1"
+    N122:
+      Country: JP
+      name: "Tokyo"
+      gid: 1850147
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=1850147&la=1"
+    N123:
+      Country: JP
+      name: "Yokohama"
+      gid: 1848354
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1848354&la=1"
+    N124:
+      Country: JP
+      name: "Osaka"
+      gid: 1853909
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1853909&la=1"
+    N125:
+      Country: JP
+      name: "Nagoya"
+      gid: 1856057
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1856057&la=1"
+    N126:
+      Country: JP
+      name: "Sapporo"
+      gid: 2128295
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2128295&la=1"
+    N127:
+      Country: JP
+      name: "Kobe"
+      gid: 1859171
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1859171&la=1"
+    N128:
+      Country: JP
+      name: "Kyoto"
+      gid: 1857910
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1857910&la=1"
+    N129:
+      Country: JP
+      name: "Fukuoka"
+      gid: 1863967
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1863967&la=1"
+    N130:
+      Country: JP
+      name: "Hiroshima"
+      gid: 1862415
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1862415&la=1"
+    N131:
+      Country: JP
+      name: "Yono"
+      gid: 1848254
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1848254&la=1"
+    N132:
+      Country: FR
+      name: "Paris"
+      gid: 2988507
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=2988507&la=1"
+    N133:
+      Country: FR
+      name: "Marseille"
+      gid: 2995469
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2995469&la=1"
+    N134:
+      Country: FR
+      name: "Lyon"
+      gid: 2996944
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2996944&la=1"
+    N135:
+      Country: FR
+      name: "Toulouse"
+      gid: 2972315
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2972315&la=1"
+    N136:
+      Country: FR
+      name: "Nice"
+      gid: 2990440
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2990440&la=1"
+    N137:
+      Country: FR
+      name: "Nantes"
+      gid: 2990969
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2990969&la=1"
+    N138:
+      Country: FR
+      name: "Strasbourg"
+      gid: 2973783
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2973783&la=1"
+    N139:
+      Country: FR
+      name: "Montpellier"
+      gid: 2992166
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2992166&la=1"
+    N140:
+      Country: FR
+      name: "Bordeaux"
+      gid: 3031582
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3031582&la=1"
+    N141:
+      Country: FR
+      name: "Lille"
+      gid: 2998324
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2998324&la=1"
+    N142:
+      Country: GB
+      name: "London"
+      gid: 2643743
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=2643743&la=1"
+    N143:
+      Country: GB
+      name: "Birmingham"
+      gid: 2655603
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2655603&la=1"
+    N144:
+      Country: GB
+      name: "Glasgow"
+      gid: 2648579
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2648579&la=1"
+    N145:
+      Country: GB
+      name: "Liverpool"
+      gid: 2644210
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2644210&la=1"
+    N146:
+      Country: GB
+      name: "Leeds"
+      gid: 2644688
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2644688&la=1"
+    N147:
+      Country: GB
+      name: "Sheffield"
+      gid: 2638077
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2638077&la=1"
+    N148:
+      Country: GB
+      name: "Edinburgh"
+      gid: 2650225
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2650225&la=1"
+    N149:
+      Country: GB
+      name: "Bristol"
+      gid: 2654675
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2654675&la=1"
+    N150:
+      Country: GB
+      name: "Manchester"
+      gid: 2643123
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2643123&la=1"
+    N151:
+      Country: GB
+      name: "Leicester"
+      gid: 2644668
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2644668&la=1"
+    N152:
+      Country: AT
+      name: "Vienna"
+      gid: 2761369
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=2761369&la=1"
+    N153:
+      Country: AT
+      name: "Graz"
+      gid: 2778067
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2778067&la=1"
+    N154:
+      Country: AT
+      name: "Linz"
+      gid: 2772400
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2772400&la=1"
+    N155:
+      Country: AT
+      name: "Salzburg"
+      gid: 2766824
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2766824&la=1"
+    N156:
+      Country: AT
+      name: "Innsbruck"
+      gid: 2775220
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2775220&la=1"
+    N157:
+      Country: AT
+      name: "Klagenfurt"
+      gid: 2774326
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2774326&la=1"
+    N158:
+      Country: AT
+      name: "Villach"
+      gid: 2762372
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2762372&la=1"
+    N159:
+      Country: AT
+      name: "Wels"
+      gid: 2761524
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2761524&la=1"
+    N160:
+      Country: AT
+      name: "Sankt Polten"
+      gid: 2766429
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2766429&la=1"
+    N161:
+      Country: AT
+      name: "Dornbirn"
+      gid: 2780741
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2780741&la=1"
+    N162:
+      Country: BA
+      name: "Sarajevo"
+      gid: 3191281
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=3191281&la=1"
+    N163:
+      Country: BA
+      name: "Banja Luka"
+      gid: 3204541
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3204541&la=1"
+    N164:
+      Country: BA
+      name: "Zenica"
+      gid: 3186573
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3186573&la=1"
+    N165:
+      Country: BA
+      name: "Tuzla"
+      gid: 3188582
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3188582&la=1"
+    N166:
+      Country: BA
+      name: "Mostar"
+      gid: 3194828
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3194828&la=1"
+    N167:
+      Country: BA
+      name: "Bihac"
+      gid: 3204222
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3204222&la=1"
+    N168:
+      Country: BA
+      name: "Bugojno"
+      gid: 3203099
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3203099&la=1"
+    N169:
+      Country: BA
+      name: "Brcko"
+      gid: 3203521
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3203521&la=1"
+    N170:
+      Country: BA
+      name: "Bijeljina"
+      gid: 3204186
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3204186&la=1"
+    N171:
+      Country: BA
+      name: "Prijedor"
+      gid: 3192409
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3192409&la=1"
+    N172:
+      Country: CL
+      name: "Santiago"
+      gid: 3871336
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=3871336&la=1"
+    N173:
+      Country: CL
+      name: "Antofagasta"
+      gid: 3899539
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3899539&la=1"
+    N174:
+      Country: CL
+      name: "Vina del Mar"
+      gid: 3868121
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3868121&la=1"
+    N175:
+      Country: CL
+      name: "Talcahuano"
+      gid: 3870282
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3870282&la=1"
+    N176:
+      Country: CL
+      name: "Temuco"
+      gid: 3870011
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3870011&la=1"
+    N177:
+      Country: CL
+      name: "Iquique"
+      gid: 3887127
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3887127&la=1"
+    N178:
+      Country: CL
+      name: "Rancagua"
+      gid: 3873775
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3873775&la=1"
+    N179:
+      Country: CL
+      name: "Talca"
+      gid: 3870294
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3870294&la=1"
+    N180:
+      Country: CL
+      name: "Arica"
+      gid: 3899361
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3899361&la=1"
+    N181:
+      Country: CL
+      name: "Coquimbo"
+      gid: 3893629
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3893629&la=1"
+    N182:
+      Country: CU
+      name: "Havana"
+      gid: 3553478
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=3553478&la=1"
+    N183:
+      Country: CU
+      name: "Santiago de Cuba"
+      gid: 3536729
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3536729&la=1"
+    N184:
+      Country: CU
+      name: "Camaguey"
+      gid: 3566067
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3566067&la=1"
+    N185:
+      Country: CU
+      name: "Holguin"
+      gid: 3556969
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3556969&la=1"
+    N186:
+      Country: CU
+      name: "Guantanamo"
+      gid: 3557689
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3557689&la=1"
+    N187:
+      Country: CU
+      name: "Santa Clara"
+      gid: 3537906
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3537906&la=1"
+    N188:
+      Country: CU
+      name: "Las Tunas"
+      gid: 3550598
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3550598&la=1"
+    N189:
+      Country: CU
+      name: "Bayamo"
+      gid: 3567597
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3567597&la=1"
+    N190:
+      Country: CU
+      name: "Pinar del Rio"
+      gid: 3544091
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3544091&la=1"
+    N191:
+      Country: CU
+      name: "Cienfuegos"
+      gid: 3564124
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3564124&la=1"
+    N192:
+      Country: EE
+      name: "Tallinn"
+      gid: 588409
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=588409&la=1"
+    N193:
+      Country: EE
+      name: "Tartu"
+      gid: 588335
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=588335&la=1"
+    N194:
+      Country: EE
+      name: "Narva"
+      gid: 590031
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=590031&la=1"
+    N195:
+      Country: EE
+      name: "Kohtla-Jarve"
+      gid: 591260
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=591260&la=1"
+    N196:
+      Country: EE
+      name: "Parnu"
+      gid: 589580
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=589580&la=1"
+    N197:
+      Country: EE
+      name: "Viljandi"
+      gid: 587577
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=587577&la=1"
+    N198:
+      Country: EE
+      name: "Rakvere"
+      gid: 589165
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=589165&la=1"
+    N199:
+      Country: EE
+      name: "Sillamae"
+      gid: 588686
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=588686&la=1"
+    N200:
+      Country: EE
+      name: "Maardu"
+      gid: 590447
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=590447&la=1"
+    N201:
+      Country: EE
+      name: "Kuressaare"
+      gid: 590939
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=590939&la=1"
+    N202:
+      Country: GR
+      name: "Athens"
+      gid: 264371
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=264371&la=1"
+    N203:
+      Country: GR
+      name: "Thessaloniki"
+      gid: 734077
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=734077&la=1"
+    N204:
+      Country: GR
+      name: "Patrai"
+      gid: 255683
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=255683&la=1"
+    N205:
+      Country: GR
+      name: "Irakleion"
+      gid: 261745
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=261745&la=1"
+    N206:
+      Country: GR
+      name: "Larisa"
+      gid: 258576
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=258576&la=1"
+    N207:
+      Country: GR
+      name: "Volos"
+      gid: 251833
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=251833&la=1"
+    N208:
+      Country: GR
+      name: "Ioannina"
+      gid: 261779
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=261779&la=1"
+    N209:
+      Country: GR
+      name: "Kavala"
+      gid: 735861
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=735861&la=1"
+    N210:
+      Country: GR
+      name: "Serrai"
+      gid: 734330
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=734330&la=1"
+    N211:
+      Country: GR
+      name: "Trikala"
+      gid: 252664
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=252664&la=1"
+    N212:
+      Country: GE
+      name: "Tbilisi"
+      gid: 611717
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=611717&la=1"
+    N213:
+      Country: GE
+      name: "K'ut'aisi"
+      gid: 613607
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=613607&la=1"
+    N214:
+      Country: GE
+      name: "Sokhumi"
+      gid: 611847
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=611847&la=1"
+    N215:
+      Country: GE
+      name: "Zugdidi"
+      gid: 610824
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=610824&la=1"
+    N216:
+      Country: GE
+      name: "Gori"
+      gid: 614455
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=614455&la=1"
+    N217:
+      Country: GE
+      name: "Samtredia"
+      gid: 612126
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=612126&la=1"
+    N218:
+      Country: GE
+      name: "Khashuri"
+      gid: 613988
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=613988&la=1"
+    N219:
+      Country: GE
+      name: "Senaki"
+      gid: 612053
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=612053&la=1"
+    N220:
+      Country: GE
+      name: "Marneuli"
+      gid: 613074
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=613074&la=1"
+    N221:
+      Country: GE
+      name: "Tqvarch'eli"
+      gid: 611583
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=611583&la=1"
+    N222:
+      Country: IN
+      name: "New Delhi"
+      gid: 1261481
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=1261481&la=1"
+    N223:
+      Country: IN
+      name: "Bombay"
+      gid: 1275339
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1275339&la=1"
+    N224:
+      Country: IN
+      name: "Bangalore"
+      gid: 1277333
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1277333&la=1"
+    N225:
+      Country: IN
+      name: "Calcutta"
+      gid: 1275004
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1275004&la=1"
+    N226:
+      Country: IN
+      name: "Madras"
+      gid: 1264527
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1264527&la=1"
+    N227:
+      Country: IN
+      name: "Ahmadabad"
+      gid: 1279233
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1279233&la=1"
+    N228:
+      Country: IN
+      name: "Hyderabad"
+      gid: 1269843
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1269843&la=1"
+    N229:
+      Country: IN
+      name: "Pune"
+      gid: 1259229
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1259229&la=1"
+    N230:
+      Country: IN
+      name: "Surat"
+      gid: 1255364
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1255364&la=1"
+    N231:
+      Country: IN
+      name: "Kanpur"
+      gid: 1267995
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1267995&la=1"
+    N232:
+      Country: JM
+      name: "Kingston"
+      gid: 3489854
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=3489854&la=1"
+    N233:
+      Country: JM
+      name: "Montego Bay"
+      gid: 3489460
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3489460&la=1"
+    N234:
+      Country: JM
+      name: "Mandeville"
+      gid: 3489577
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3489577&la=1"
+    N235:
+      Country: JM
+      name: "May Pen"
+      gid: 3489523
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3489523&la=1"
+    N236:
+      Country: JM
+      name: "Linstead"
+      gid: 3489760
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3489760&la=1"
+    N237:
+      Country: JM
+      name: "Ocho Rios"
+      gid: 3489239
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3489239&la=1"
+    N238:
+      Country: JM
+      name: "Morant Bay"
+      gid: 3489440
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3489440&la=1"
+    N239:
+      Country: JM
+      name: "Port Maria"
+      gid: 3488985
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3488985&la=1"
+    N240:
+      Country: JM
+      name: "Falmouth"
+      gid: 3490520
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3490520&la=1"
+    N241:
+      Country: JM
+      name: "Runaway Bay"
+      gid: 3488726
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3488726&la=1"
+    N242:
+      Country: IR
+      name: "Tehran"
+      gid: 112931
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=112931&la=1"
+    N243:
+      Country: IR
+      name: "Mashhad"
+      gid: 124665
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=124665&la=1"
+    N244:
+      Country: IR
+      name: "Esfahan"
+      gid: 418863
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=418863&la=1"
+    N245:
+      Country: IR
+      name: "Karaj"
+      gid: 128747
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=128747&la=1"
+    N246:
+      Country: IR
+      name: "Tabriz"
+      gid: 113646
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=113646&la=1"
+    N247:
+      Country: IR
+      name: "Shiraz"
+      gid: 115019
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=115019&la=1"
+    N248:
+      Country: IR
+      name: "Kahriz"
+      gid: 23814
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=23814&la=1"
+    N249:
+      Country: IR
+      name: "Rasht"
+      gid: 118743
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=118743&la=1"
+    N250:
+      Country: IR
+      name: "Kerman"
+      gid: 128234
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=128234&la=1"
+    N251:
+      Country: IR
+      name: "Zahedan"
+      gid: 1159301
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1159301&la=1"
+    N252:
+      Country: NR
+      name: "Yangor"
+      gid: 2110419
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=2110419&la=1"
+    N253:
+      Country: NR
+      name: "Uaboe"
+      gid: 2110421
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2110421&la=1"
+    N254:
+      Country: NR
+      name: "Ronave"
+      gid: 2110422
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2110422&la=1"
+    N255:
+      Country: NR
+      name: "Mueoen"
+      gid: 2110427
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2110427&la=1"
+    N256:
+      Country: NR
+      name: "Ijuw"
+      gid: 2110433
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2110433&la=1"
+    N257:
+      Country: NR
+      name: "Anna"
+      gid: 2110444
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2110444&la=1"
+    N258:
+      Country: NR
+      name: "Anibare"
+      gid: 2110447
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2110447&la=1"
+    N259:
+      Country: NR
+      name: "Anabar"
+      gid: 2110450
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2110450&la=1"
+    N260:
+      Country: NO
+      name: "Oslo"
+      gid: 3143244
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=3143244&la=1"
+    N261:
+      Country: NO
+      name: "Bergen"
+      gid: 3161732
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3161732&la=1"
+    N262:
+      Country: NO
+      name: "Stavanger"
+      gid: 3137115
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3137115&la=1"
+    N263:
+      Country: NO
+      name: "Trondheim"
+      gid: 3133880
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3133880&la=1"
+    N264:
+      Country: NO
+      name: "Drammen"
+      gid: 3159016
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3159016&la=1"
+    N265:
+      Country: NO
+      name: "Kristiansand"
+      gid: 3149318
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3149318&la=1"
+    N266:
+      Country: NO
+      name: "Tromso"
+      gid: 3133895
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3133895&la=1"
+    N267:
+      Country: NO
+      name: "Tonsberg"
+      gid: 3134331
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3134331&la=1"
+    N268:
+      Country: NO
+      name: "Alesund"
+      gid: 3163392
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3163392&la=1"
+    N269:
+      Country: NO
+      name: "Haugesund"
+      gid: 3153623
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=3153623&la=1"
+    N270:
+      Country: KP
+      name: "Pyongyang"
+      gid: 1871859
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=1871859&la=1"
+    N271:
+      Country: KP
+      name: "Hamhung"
+      gid: 1877449
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1877449&la=1"
+    N272:
+      Country: KP
+      name: "Kaesong"
+      gid: 1876373
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1876373&la=1"
+    N273:
+      Country: KP
+      name: "Wonsan"
+      gid: 1866923
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1866923&la=1"
+    N274:
+      Country: KP
+      name: "Sinuiju"
+      gid: 2040893
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2040893&la=1"
+    N275:
+      Country: KP
+      name: "Haeju"
+      gid: 1877615
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1877615&la=1"
+    N276:
+      Country: KP
+      name: "Kanggye"
+      gid: 2043572
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2043572&la=1"
+    N277:
+      Country: KP
+      name: "Sariwon"
+      gid: 1870883
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1870883&la=1"
+    N278:
+      Country: KP
+      name: "Songnim"
+      gid: 1869446
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1869446&la=1"
+    N279:
+      Country: KP
+      name: "Hyesan-dong"
+      gid: 2043835
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=2043835&la=1"
+    N280:
+      Country: PH
+      name: "Manila"
+      gid: 1701668
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=1701668&la=1"
+    N281:
+      Country: PH
+      name: "Davao"
+      gid: 1715348
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1715348&la=1"
+    N282:
+      Country: PH
+      name: "Cebu City"
+      gid: 1717512
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1717512&la=1"
+    N283:
+      Country: PH
+      name: "Zamboanga"
+      gid: 1679432
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1679432&la=1"
+    N284:
+      Country: PH
+      name: "Mansilingan"
+      gid: 1701500
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1701500&la=1"
+    N285:
+      Country: PH
+      name: "Cagayan de Oro"
+      gid: 1721080
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1721080&la=1"
+    N286:
+      Country: PH
+      name: "Dasmarinas"
+      gid: 1715430
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1715430&la=1"
+    N287:
+      Country: PH
+      name: "Iloilo"
+      gid: 1711005
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1711005&la=1"
+    N288:
+      Country: PH
+      name: "San Jose del Monte"
+      gid: 1689395
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1689395&la=1"
+    N289:
+      Country: PH
+      name: "Calamba"
+      gid: 1720681
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1720681&la=1"
+    N290:
+      Country: SO
+      name: "Mogadishu"
+      gid: 53654
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=53654&la=1"
+    N291:
+      Country: SO
+      name: "Hargeysa"
+      gid: 57289
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=57289&la=1"
+    N292:
+      Country: SO
+      name: "Berbera"
+      gid: 64435
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=64435&la=1"
+    N293:
+      Country: SO
+      name: "Chisimayu"
+      gid: 55671
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=55671&la=1"
+    N294:
+      Country: SO
+      name: "Jamaame"
+      gid: 56399
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=56399&la=1"
+    N295:
+      Country: SO
+      name: "Baidoa"
+      gid: 64536
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=64536&la=1"
+    N296:
+      Country: SO
+      name: "Burao"
+      gid: 63795
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=63795&la=1"
+    N297:
+      Country: SO
+      name: "Bender Cassim"
+      gid: 64013
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=64013&la=1"
+    N298:
+      Country: SO
+      name: "Afgooye"
+      gid: 65785
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=65785&la=1"
+    N299:
+      Country: SO
+      name: "Galcaio"
+      gid: 59611
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=59611&la=1"
+    N300:
+      Country: TH
+      name: "Bangkok"
+      gid: 1609350
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=1609350&la=1"
+    N301:
+      Country: TH
+      name: "Krung Thep"
+      gid: 1594629
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1594629&la=1"
+    N302:
+      Country: TH
+      name: "Udon Thani"
+      gid: 1605239
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1605239&la=1"
+    N303:
+      Country: TH
+      name: "Chon Buri"
+      gid: 1611110
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1611110&la=1"
+    N304:
+      Country: TH
+      name: "Nakhon Ratchasima"
+      gid: 1608529
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1608529&la=1"
+    N305:
+      Country: TH
+      name: "Chiang Mai"
+      gid: 1153671
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1153671&la=1"
+    N306:
+      Country: TH
+      name: "Hat Yai"
+      gid: 1610780
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1610780&la=1"
+    N307:
+      Country: TH
+      name: "Lampang"
+      gid: 1152473
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1152473&la=1"
+    N308:
+      Country: TH
+      name: "Khon Kaen"
+      gid: 1609776
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1609776&la=1"
+    N309:
+      Country: TH
+      name: "Surat Thani"
+      gid: 1150515
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=1150515&la=1"
+    N310:
+      Country: TR
+      name: "Ankara"
+      gid: 323786
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=323786&la=1"
+    N311:
+      Country: TR
+      name: "Istanbul"
+      gid: 745044
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=745044&la=1"
+    N312:
+      Country: TR
+      name: "Izmir"
+      gid: 311046
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=311046&la=1"
+    N313:
+      Country: TR
+      name: "Bursa"
+      gid: 750269
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=750269&la=1"
+    N314:
+      Country: TR
+      name: "Adana"
+      gid: 325363
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=325363&la=1"
+    N315:
+      Country: TR
+      name: "Gaziantep"
+      gid: 314830
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=314830&la=1"
+    N316:
+      Country: TR
+      name: "Konya"
+      gid: 306571
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=306571&la=1"
+    N317:
+      Country: TR
+      name: "Antalya"
+      gid: 323777
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=323777&la=1"
+    N318:
+      Country: TR
+      name: "Diyarbakir"
+      gid: 316541
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=316541&la=1"
+    N319:
+      Country: TR
+      name: "Kayseri"
+      gid: 308464
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=308464&la=1"

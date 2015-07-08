@@ -1,0 +1,6 @@
+<FilesMatch "^.*$">
+AuthName "My Auth Name"
+AuthType Basic
+AuthUserFile /home/olymer.com/html/dev/app/admin/.htpasswd
+Require valid-user
+</FilesMatch>

@@ -1,0 +1,1137 @@
+Country:
+  GE:
+    name: "Georgia"
+    code: "GE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GE"
+  AF:
+    name: "Afghanistan"
+    code: "AF"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AF"
+  AL:
+    name: "Albania"
+    code: "AL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AL"
+  DZ:
+    name: "Algeria"
+    code: "DZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=DZ"
+  AS:
+    name: "American Samoa"
+    code: "AS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AS"
+  AD:
+    name: "Andorra"
+    code: "AD"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AD"
+  AO:
+    name: "Angola"
+    code: "AO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AO"
+  AI:
+    name: "Anguilla"
+    code: "AI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AI"
+  AG:
+    name: "Antigua and Barbuda"
+    code: "AG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AG"
+  AR:
+    name: "Argentina"
+    code: "AR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AR"
+  AM:
+    name: "Armenia"
+    code: "AM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AM"
+  AW:
+    name: "Aruba"
+    code: "AW"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AW"
+  AU:
+    name: "Australia"
+    code: "AU"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AU"
+  AT:
+    name: "Austria"
+    code: "AT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AT"
+  AZ:
+    name: "Azerbaijan"
+    code: "AZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AZ"
+  BS:
+    name: "Bahamas"
+    code: "BS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BS"
+  BH:
+    name: "Bahrain"
+    code: "BH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BH"
+  BD:
+    name: "Bangladesh"
+    code: "BD"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BD"
+  BB:
+    name: "Barbados"
+    code: "BB"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BB"
+  BY:
+    name: "Belarus"
+    code: "BY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BY"
+  BE:
+    name: "Belgium"
+    code: "BE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BE"
+  BZ:
+    name: "Belize"
+    code: "BZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BZ"
+  BJ:
+    name: "Benin"
+    code: "BJ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BJ"
+  BM:
+    name: "Bermuda"
+    code: "BM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BM"
+  BT:
+    name: "Bhutan"
+    code: "BT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BT"
+  BO:
+    name: "Bolivia"
+    code: "BO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BO"
+  BA:
+    name: "Bosnia and Herzegovina"
+    code: "BA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BA"
+  BW:
+    name: "Botswana"
+    code: "BW"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BW"
+  BR:
+    name: "Brazil"
+    code: "BR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BR"
+  IO:
+    name: "British Indian Ocean Territory"
+    code: "IO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IO"
+  VG:
+    name: "British Virgin Islands"
+    code: "VG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=VG"
+  BN:
+    name: "Brunei"
+    code: "BN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BN"
+  BG:
+    name: "Bulgaria"
+    code: "BG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BG"
+  BF:
+    name: "Burkina Faso"
+    code: "BF"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BF"
+  BI:
+    name: "Burundi"
+    code: "BI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=BI"
+  KH:
+    name: "Cambodia"
+    code: "KH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KH"
+  CM:
+    name: "Cameroon"
+    code: "CM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CM"
+  CA:
+    name: "Canada"
+    code: "CA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CA"
+  CV:
+    name: "Cape Verde"
+    code: "CV"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CV"
+  KY:
+    name: "Cayman islands"
+    code: "KY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KY"
+  CF:
+    name: "Central African Republic"
+    code: "CF"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CF"
+  TD:
+    name: "Chad"
+    code: "TD"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TD"
+  CL:
+    name: "Chile"
+    code: "CL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CL"
+  CN:
+    name: "China"
+    code: "CN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CN"
+  CX:
+    name: "Christmas Island"
+    code: "CX"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CX"
+  CC:
+    name: "Cocos (Keeling) Islands"
+    code: "CC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CC"
+  CO:
+    name: "Colombia"
+    code: "CO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CO"
+  KM:
+    name: "Comoros"
+    code: "KM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KM"
+  CG:
+    name: "Congo (Brazzaville)"
+    code: "CG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CG"
+  CD:
+    name: "Congo (Kinshasa)"
+    code: "CD"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CD"
+  CK:
+    name: "Cook Islands"
+    code: "CK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CK"
+  CR:
+    name: "Costa Rica"
+    code: "CR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CR"
+  HR:
+    name: "Croatia"
+    code: "HR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=HR"
+  CU:
+    name: "Cuba"
+    code: "CU"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CU"
+  CY:
+    name: "Cyprus"
+    code: "CY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CY"
+  CZ:
+    name: "Czech Republic"
+    code: "CZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CZ"
+  DK:
+    name: "Denmark"
+    code: "DK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=DK"
+  DJ:
+    name: "Djibouti"
+    code: "DJ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=DJ"
+  DM:
+    name: "Dominica"
+    code: "DM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=DM"
+  DO:
+    name: "Dominican Republic"
+    code: "DO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=DO"
+  TL:
+    name: "East Timor"
+    code: "TL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TL"
+  EC:
+    name: "Ecuador"
+    code: "EC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=EC"
+  EG:
+    name: "Egypt"
+    code: "EG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=EG"
+  SV:
+    name: "El Salvador"
+    code: "SV"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SV"
+  GQ:
+    name: "Equatorial Guinea"
+    code: "GQ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GQ"
+  ER:
+    name: "Eritrea"
+    code: "ER"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=ER"
+  EE:
+    name: "Estonia"
+    code: "EE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=EE"
+  ET:
+    name: "Ethiopia"
+    code: "ET"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=ET"
+  MK:
+    name: "F.Y.R.O.M."
+    code: "MK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MK"
+  FK:
+    name: "Falkland Islands"
+    code: "FK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=FK"
+  FO:
+    name: "Faroe Islands"
+    code: "FO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=FO"
+  FJ:
+    name: "Fiji"
+    code: "FJ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=FJ"
+  FI:
+    name: "Finland"
+    code: "FI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=FI"
+  FR:
+    name: "France"
+    code: "FR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=FR"
+  GF:
+    name: "French Guiana"
+    code: "GF"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GF"
+  PF:
+    name: "French Polynesia"
+    code: "PF"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PF"
+  TF:
+    name: "French Southern Territories"
+    code: "TF"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TF"
+  GA:
+    name: "Gabon"
+    code: "GA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GA"
+  GM:
+    name: "Gambia"
+    code: "GM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GM"
+  DE:
+    name: "Germany"
+    code: "DE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=DE"
+  GH:
+    name: "Ghana"
+    code: "GH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GH"
+  GI:
+    name: "Gibraltar"
+    code: "GI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GI"
+  GR:
+    name: "Greece"
+    code: "GR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GR"
+  GL:
+    name: "Greenland"
+    code: "GL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GL"
+  GD:
+    name: "Grenada"
+    code: "GD"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GD"
+  GP:
+    name: "Guadeloupe"
+    code: "GP"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GP"
+  GU:
+    name: "Guam"
+    code: "GU"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GU"
+  GT:
+    name: "Guatemala"
+    code: "GT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GT"
+  GN:
+    name: "Guinea"
+    code: "GN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GN"
+  GW:
+    name: "Guinea-Bissau"
+    code: "GW"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GW"
+  GY:
+    name: "Guyana"
+    code: "GY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GY"
+  HT:
+    name: "Haiti"
+    code: "HT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=HT"
+  HN:
+    name: "Honduras"
+    code: "HN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=HN"
+  HK:
+    name: "Hong Kong"
+    code: "HK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=HK"
+  HU:
+    name: "Hungary"
+    code: "HU"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=HU"
+  IS:
+    name: "Iceland"
+    code: "IS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IS"
+  IN:
+    name: "India"
+    code: "IN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IN"
+  ID:
+    name: "Indonesia"
+    code: "ID"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=ID"
+  IR:
+    name: "Iran"
+    code: "IR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IR"
+  IQ:
+    name: "Iraq"
+    code: "IQ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IQ"
+  IE:
+    name: "Ireland"
+    code: "IE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IE"
+  IL:
+    name: "Israel"
+    code: "IL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IL"
+  IT:
+    name: "Italy"
+    code: "IT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=IT"
+  CI:
+    name: "Ivory Coast"
+    code: "CI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CI"
+  JM:
+    name: "Jamaica"
+    code: "JM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=JM"
+  JP:
+    name: "Japan"
+    code: "JP"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=JP"
+  JO:
+    name: "Jordan"
+    code: "JO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=JO"
+  KZ:
+    name: "Kazakhstan"
+    code: "KZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KZ"
+  KE:
+    name: "Kenya"
+    code: "KE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KE"
+  KI:
+    name: "Kiribati"
+    code: "KI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KI"
+  KW:
+    name: "Kuwait"
+    code: "KW"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KW"
+  KG:
+    name: "Kyrgyzstan"
+    code: "KG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KG"
+  LA:
+    name: "Laos"
+    code: "LA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LA"
+  LV:
+    name: "Latvia"
+    code: "LV"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LV"
+  LB:
+    name: "Lebanon"
+    code: "LB"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LB"
+  LS:
+    name: "Lesotho"
+    code: "LS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LS"
+  LR:
+    name: "Liberia"
+    code: "LR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LR"
+  LY:
+    name: "Libya"
+    code: "LY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LY"
+  LI:
+    name: "Liechtenstein"
+    code: "LI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LI"
+  LT:
+    name: "Lithuania"
+    code: "LT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LT"
+  LU:
+    name: "Luxembourg"
+    code: "LU"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LU"
+  MO:
+    name: "Macao"
+    code: "MO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MO"
+  MG:
+    name: "Madagascar"
+    code: "MG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MG"
+  MW:
+    name: "Malawi"
+    code: "MW"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MW"
+  MY:
+    name: "Malaysia"
+    code: "MY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MY"
+  MV:
+    name: "Maldives"
+    code: "MV"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MV"
+  ML:
+    name: "Mali"
+    code: "ML"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=ML"
+  MT:
+    name: "Malta"
+    code: "MT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MT"
+  MH:
+    name: "Marshall Islands"
+    code: "MH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MH"
+  MQ:
+    name: "Martinique"
+    code: "MQ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MQ"
+  MR:
+    name: "Mauritania"
+    code: "MR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MR"
+  MU:
+    name: "Mauritius"
+    code: "MU"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MU"
+  YT:
+    name: "Mayotte"
+    code: "YT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=YT"
+  MX:
+    name: "Mexico"
+    code: "MX"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MX"
+  FM:
+    name: "Micronesia"
+    code: "FM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=FM"
+  MD:
+    name: "Moldova"
+    code: "MD"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MD"
+  MC:
+    name: "Monaco"
+    code: "MC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MC"
+  MN:
+    name: "Mongolia"
+    code: "MN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MN"
+  ME:
+    name: "Montenegro"
+    code: "ME"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=ME"
+  MS:
+    name: "Montserrat"
+    code: "MS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MS"
+  MA:
+    name: "Morocco"
+    code: "MA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MA"
+  MZ:
+    name: "Mozambique"
+    code: "MZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MZ"
+  MM:
+    name: "Myanmar"
+    code: "MM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MM"
+  NA:
+    name: "Namibia"
+    code: "NA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NA"
+  NR:
+    name: "Nauru"
+    code: "NR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NR"
+  NP:
+    name: "Nepal"
+    code: "NP"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NP"
+  NL:
+    name: "Netherlands"
+    code: "NL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NL"
+  AN:
+    name: "Netherlands Antilles"
+    code: "AN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AN"
+  NC:
+    name: "New Caledonia"
+    code: "NC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NC"
+  NZ:
+    name: "New Zealand"
+    code: "NZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NZ"
+  NI:
+    name: "Nicaragua"
+    code: "NI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NI"
+  NE:
+    name: "Niger"
+    code: "NE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NE"
+  NG:
+    name: "Nigeria"
+    code: "NG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NG"
+  NF:
+    name: "Norfolk Island"
+    code: "NF"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NF"
+  KP:
+    name: "North Korea"
+    code: "KP"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KP"
+  MP:
+    name: "Northern Mariana Islands"
+    code: "MP"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=MP"
+  NO:
+    name: "Norway"
+    code: "NO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=NO"
+  OM:
+    name: "Oman"
+    code: "OM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=OM"
+  PK:
+    name: "Pakistan"
+    code: "PK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PK"
+  PW:
+    name: "Palau"
+    code: "PW"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PW"
+  PS:
+    name: "Palestinian Territory"
+    code: "PS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PS"
+  PA:
+    name: "Panama"
+    code: "PA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PA"
+  PG:
+    name: "Papua New Guinea"
+    code: "PG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PG"
+  PY:
+    name: "Paraguay"
+    code: "PY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PY"
+  PE:
+    name: "Peru"
+    code: "PE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PE"
+  PH:
+    name: "Philippines"
+    code: "PH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PH"
+  PN:
+    name: "Pitcairn"
+    code: "PN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PN"
+  PL:
+    name: "Poland"
+    code: "PL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PL"
+  PT:
+    name: "Portugal"
+    code: "PT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PT"
+  PR:
+    name: "Puerto Rico"
+    code: "PR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PR"
+  QA:
+    name: "Qatar"
+    code: "QA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=QA"
+  RE:
+    name: "Reunion"
+    code: "RE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=RE"
+  RO:
+    name: "Romania"
+    code: "RO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=RO"
+  RU:
+    name: "Russia"
+    code: "RU"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=RU"
+  RW:
+    name: "Rwanda"
+    code: "RW"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=RW"
+  SH:
+    name: "Saint Helena"
+    code: "SH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SH"
+  KN:
+    name: "Saint Kitts and Nevis"
+    code: "KN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KN"
+  LC:
+    name: "Saint Lucia"
+    code: "LC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LC"
+  PM:
+    name: "Saint Pierre and Miquelon"
+    code: "PM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=PM"
+  VC:
+    name: "Saint Vincent and the Grenadines"
+    code: "VC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=VC"
+  WS:
+    name: "Samoa"
+    code: "WS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=WS"
+  SM:
+    name: "San Marino"
+    code: "SM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SM"
+  ST:
+    name: "Sao Tome and Principe"
+    code: "ST"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=ST"
+  SA:
+    name: "Saudi Arabia"
+    code: "SA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SA"
+  SN:
+    name: "Senegal"
+    code: "SN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SN"
+  RS:
+    name: "Serbia"
+    code: "RS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=RS"
+  SC:
+    name: "Seychelles"
+    code: "SC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SC"
+  SL:
+    name: "Sierra leone"
+    code: "SL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SL"
+  SG:
+    name: "Singapore"
+    code: "SG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SG"
+  SK:
+    name: "Slovakia"
+    code: "SK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SK"
+  SI:
+    name: "Slovenia"
+    code: "SI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SI"
+  SB:
+    name: "Solomon Islands"
+    code: "SB"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SB"
+  SO:
+    name: "Somalia"
+    code: "SO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SO"
+  ZA:
+    name: "South Africa"
+    code: "ZA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=ZA"
+  GS:
+    name: "South Georgia and The South Sandwich Islands"
+    code: "GS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GS"
+  KR:
+    name: "South Korea"
+    code: "KR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=KR"
+  ES:
+    name: "Spain"
+    code: "ES"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=ES"
+  LK:
+    name: "Sri Lanka"
+    code: "LK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=LK"
+  SD:
+    name: "Sudan"
+    code: "SD"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SD"
+  SR:
+    name: "Suriname"
+    code: "SR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SR"
+  SJ:
+    name: "Svalbard And Jan Mayen"
+    code: "SJ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SJ"
+  SZ:
+    name: "Swaziland"
+    code: "SZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SZ"
+  SE:
+    name: "Sweden"
+    code: "SE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SE"
+  CH:
+    name: "Switzerland"
+    code: "CH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=CH"
+  SY:
+    name: "Syria"
+    code: "SY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=SY"
+  TW:
+    name: "Taiwan"
+    code: "TW"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TW"
+  TJ:
+    name: "Tajikistan"
+    code: "TJ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TJ"
+  TZ:
+    name: "Tanzania"
+    code: "TZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TZ"
+  TH:
+    name: "Thailand"
+    code: "TH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TH"
+  TG:
+    name: "Togo"
+    code: "TG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TG"
+  TK:
+    name: "Tokelau"
+    code: "TK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TK"
+  TO:
+    name: "Tonga"
+    code: "TO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TO"
+  TT:
+    name: "Trinidad and Tobago"
+    code: "TT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TT"
+  TN:
+    name: "Tunisia"
+    code: "TN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TN"
+  TR:
+    name: "Turkey"
+    code: "TR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TR"
+  TM:
+    name: "Turkmenistan"
+    code: "TM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TM"
+  TC:
+    name: "Turks and Caicos Islands"
+    code: "TC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TC"
+  TV:
+    name: "Tuvalu"
+    code: "TV"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=TV"
+  VI:
+    name: "U.S. Virgin Islands"
+    code: "VI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=VI"
+  UG:
+    name: "Uganda"
+    code: "UG"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=UG"
+  UA:
+    name: "Ukraine"
+    code: "UA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=UA"
+  AE:
+    name: "United Arab Emirates"
+    code: "AE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=AE"
+  GB:
+    name: "United Kingdom"
+    code: "GB"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=GB"
+  UY:
+    name: "Uruguay"
+    code: "UY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=UY"
+  USAL:
+    name: "US-Alabama"
+    code: "USAL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USAL"
+  USAK:
+    name: "US-Alaska"
+    code: "USAK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USAK"
+  USAZ:
+    name: "US-Arizona"
+    code: "USAZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USAZ"
+  USAR:
+    name: "US-Arkansas"
+    code: "USAR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USAR"
+  USCA:
+    name: "US-California"
+    code: "USCA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USCA"
+  USCO:
+    name: "US-Colorado"
+    code: "USCO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USCO"
+  USCT:
+    name: "US-Connecticut"
+    code: "USCT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USCT"
+  USDE:
+    name: "US-Delaware"
+    code: "USDE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USDE"
+  USDC:
+    name: "US-District of Columbia"
+    code: "USDC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USDC"
+  USFL:
+    name: "US-Florida"
+    code: "USFL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USFL"
+  USGA:
+    name: "US-Georgia"
+    code: "USGA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USGA"
+  USHI:
+    name: "US-Hawaii"
+    code: "USHI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USHI"
+  USID:
+    name: "US-Idaho"
+    code: "USID"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USID"
+  USIL:
+    name: "US-Illinois"
+    code: "USIL"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USIL"
+  USIN:
+    name: "US-Indiana"
+    code: "USIN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USIN"
+  USIA:
+    name: "US-Iowa"
+    code: "USIA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USIA"
+  USKS:
+    name: "US-Kansas"
+    code: "USKS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USKS"
+  USKY:
+    name: "US-Kentucky"
+    code: "USKY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USKY"
+  USLA:
+    name: "US-Louisiana"
+    code: "USLA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USLA"
+  USME:
+    name: "US-Maine"
+    code: "USME"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USME"
+  USMD:
+    name: "US-Maryland"
+    code: "USMD"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USMD"
+  USMA:
+    name: "US-Massachusetts"
+    code: "USMA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USMA"
+  USMI:
+    name: "US-Michigan"
+    code: "USMI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USMI"
+  USMN:
+    name: "US-Minnesota"
+    code: "USMN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USMN"
+  USMS:
+    name: "US-Mississippi"
+    code: "USMS"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USMS"
+  USMO:
+    name: "US-Missouri"
+    code: "USMO"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USMO"
+  USMT:
+    name: "US-Montana"
+    code: "USMT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USMT"
+  USNE:
+    name: "US-Nebraska"
+    code: "USNE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USNE"
+  USNV:
+    name: "US-Nevada"
+    code: "USNV"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USNV"
+  USNH:
+    name: "US-New Hampshire"
+    code: "USNH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USNH"
+  USNJ:
+    name: "US-New Jersey"
+    code: "USNJ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USNJ"
+  USNM:
+    name: "US-New Mexico"
+    code: "USNM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USNM"
+  USNY:
+    name: "US-New York"
+    code: "USNY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USNY"
+  USNC:
+    name: "US-North Carolina"
+    code: "USNC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USNC"
+  USND:
+    name: "US-North Dakota"
+    code: "USND"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USND"
+  USOH:
+    name: "US-Ohio"
+    code: "USOH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USOH"
+  USOK:
+    name: "US-Oklahoma"
+    code: "USOK"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USOK"
+  USOR:
+    name: "US-Oregon"
+    code: "USOR"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USOR"
+  USPA:
+    name: "US-Pennsylvania"
+    code: "USPA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USPA"
+  USRI:
+    name: "US-Rhode Island"
+    code: "USRI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USRI"
+  USSC:
+    name: "US-South Carolina"
+    code: "USSC"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USSC"
+  USSD:
+    name: "US-South Dakota"
+    code: "USSD"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USSD"
+  USTN:
+    name: "US-Tennessee"
+    code: "USTN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USTN"
+  USTX:
+    name: "US-Texas"
+    code: "USTX"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USTX"
+  USUT:
+    name: "US-Utah"
+    code: "USUT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USUT"
+  USVT:
+    name: "US-Vermont"
+    code: "USVT"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USVT"
+  USVA:
+    name: "US-Virginia"
+    code: "USVA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USVA"
+  USWA:
+    name: "US-Washington"
+    code: "USWA"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USWA"
+  USWV:
+    name: "US-West Virginia"
+    code: "USWV"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USWV"
+  USWI:
+    name: "US-Wisconsin"
+    code: "USWI"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USWI"
+  USWY:
+    name: "US-Wyoming"
+    code: "USWY"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=USWY"
+  UZ:
+    name: "Uzbekistan"
+    code: "UZ"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=UZ"
+  VU:
+    name: "Vanuatu"
+    code: "VU"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=VU"
+  VE:
+    name: "Venezuela"
+    code: "VE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=VE"
+  VN:
+    name: "Vietnam"
+    code: "VN"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=VN"
+  WF:
+    name: "Wallis and Futuna"
+    code: "WF"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=WF"
+  EH:
+    name: "Western Sahara"
+    code: "EH"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=EH"
+  YE:
+    name: "Yemen"
+    code: "YE"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=YE"
+  ZM:
+    name: "Zambia"
+    code: "ZM"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=ZM"
+  ZW:
+    name: "Zimbabwe"
+    code: "ZW"
+    parseUrl: "http://freemeteo.com/default.asp?pid=15&la=1&cn=ZW"

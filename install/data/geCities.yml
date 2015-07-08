@@ -1,0 +1,63 @@
+#GE 0
+City:
+    N0:
+      name: "Tbilisi"
+      geName: "თბილისი"
+      gid: 611717
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=611717&la=1"
+    N1:
+      name: "K'ut'aisi"
+      geName: "ქუთაისი"
+      gid: 613607
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=613607&la=1"
+    N2:
+      name: "Sokhumi"
+      geName: "სოხუმი"
+      gid: 611847
+      isCapital: 
+      isVacation: true
+      parseUrl: "default.asp?pid=15&gid=611847&la=1"
+    N3:
+      name: "Zugdidi"
+      geName: "ზუგდიდი"
+      gid: 610824
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=610824&la=1"
+    N4:
+      name: "Gori"
+      geName: "გორი"
+      gid: 614455
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=614455&la=1"
+    N5:
+      name: "Samtredia"
+      geName: "სამტრედია"
+      gid: 612126
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=612126&la=1"
+    N6:
+      name: "Khashuri"
+      geName: "ხაშური"
+      gid: 613988
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=613988&la=1"
+    N7:
+      name: "Senaki"
+      geName: "სენაკი"
+      gid: 612053
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=612053&la=1"
+    N8:
+      name: "Marneuli"
+      geName: "მარნეული"
+      gid: 613074
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=613074&la=1"
+    N9:
+      name: "Tqvarch'eli"
+      geName: "ტყვარჩელი"
+      gid: 611583
+      isCapital: 
+      parseUrl: "default.asp?pid=15&gid=611583&la=1"

@@ -1,0 +1,13 @@
+19:30:04
+1:Saint Petersburg
+2010-11-27
+2010-11-28
+2010-11-29
+2010-11-30
+2010-12-01
+2010-12-02
+
+Warning: file_get_contents(http://freemeteo.com/default.asp?pid=19&la=1&gid=498817&nDate=7): failed to open stream: HTTP request failed!  in /home/olymer.com/html/dev/app/cron/cron.php on line 32
+2010-12-03
+
+19:31:51

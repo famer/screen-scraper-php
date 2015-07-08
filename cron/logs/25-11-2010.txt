@@ -1,0 +1,10 @@
+19:30:09
+1:Nizhniy Novgorod
+
+Fatal error: Uncaught exception 'Doctrine_Connection_Mysql_Exception' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`weather_alva/detailed_weather`, CONSTRAINT `detailed_weather_weather_id_daily_weather_id` FOREIGN KEY (`weather_id`) REFERENCES `daily_weather` (`id`))' in /home/olymer.com/html/dev/app/lib/Doctrine/Connection.php:1082
+Stack trace:
+#0 /home/olymer.com/html/dev/app/lib/Doctrine/Connection/Statement.php(269): Doctrine_Connection->rethrowException(Object(PDOException), Object(Doctrine_Connection_Statement))
+#1 /home/olymer.com/html/dev/app/lib/Doctrine/Connection.php(1042): Doctrine_Connection_Statement->execute(Array)
+#2 /home/olymer.com/html/dev/app/lib/Doctrine/Connection/Mysql.php(211): Doctrine_Connection->exec('REPLACE INTO da...', Array)
+#3 /home/olymer.com/html/dev/app/lib/Doctrine/Connection/UnitOfWork.php(611): Doctrine_Connection_Mysql->replace(Object(DailyWeatherTable), Array, Array)
+#4 /home/olymer.com/html in /home/olymer.com/html/dev/app/lib/Doctrine/Connection.php on line 1082

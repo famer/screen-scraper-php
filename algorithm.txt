@@ -1,0 +1,3 @@
+php ./grab/getCountriesCities.php > ./install/data/countries_cities.yml
+./install/generate.php
+php ./grab/grab.php

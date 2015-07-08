@@ -1,0 +1,20 @@
+Few clouds	
+Partly cloudy skies ნაწილობრივ ღრუბლიანი ცა
+Chance of rain	მოსალოდნელია წვიმა
+Light rain	მცირედი წვიმა
+Clear weather	უღრუბლო ამინდი
+Heavy rain	ძლიერი წვიმა
+Cloudy skies	ღრუბლიანი ცა
+Chance of rain or sleet	მოსალოდნელია წვიმა ან სველი თოვლი
+Sleet or snow	თოვლჭყაპი ან თოვლი
+Light rain or sleet	მცირედი წვიმა ან თოვლჭყაპი
+Rain or sleet	წვიმა ან თოვლჭყაპი
+Light sleet or snow	მცირედი თოვლჭყაპი ან თოვლი
+Chance of snow	მოსალოდნელია თოვლი
+Rain	წვიმა
+Rain and possible heavy thunderstorm	წვიმა, მოსალოდნელია ძლიერი ჭექა-ქუხილი
+Heavy rain or sleet	ძლიერი წვიმა ან თოვლჭყაპი
+Rain and possible thunder	წვიდა და ჭექა-ქუხილი
+Heavy sleet or snow	ძლიერი თოვლჭყაპი ან თოვლი
+Light snow	მცირედი თოვლი
+Chance of sleet or snow	მოსალოდნელია თოვლჭყაპი ან თოვლი

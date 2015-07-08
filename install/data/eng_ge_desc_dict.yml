@@ -1,0 +1,67 @@
+EngGeDict:
+    U1:
+      eng: "Few clouds"
+      ge: "მცირედი ღრუბელი"
+    U2:
+      eng: "Partly cloudy skies"
+      ge: "ნაწილობრივ ღრუბლიანი ცა"
+    U3:
+      eng: "Chance of rain"
+      ge: "მოსალოდნელია წვიმა"
+    U4:
+      eng: "Light rain"
+      ge: "მცირედი წვიმა"
+    U5:
+      eng: "Clear weather"
+      ge: "უღრუბლო ამინდი"
+    U6:
+      eng: "Heavy rain"
+      ge: "ძლიერი წვიმა"
+    U7:
+      eng: "Cloudy skies"
+      ge: "ღრუბლიანი ცა"
+    U8:
+      eng: "Chance of rain or sleet"
+      ge: "მოსალოდნელია წვიმა ან სველი თოვლი"
+    U9:
+      eng: "Sleet or snow"
+      ge: "თოვლჭყაპი ან თოვლი"
+    U10:
+      eng: "Light rain or sleet"
+      ge: "მცირედი წვიმა ან თოვლჭყაპი"
+    U11:
+      eng: "Rain or sleet"
+      ge: "წვიმა ან თოვლჭყაპი"
+    U12:
+      eng: "Light sleet or snow"
+      ge: "მცირედი თოვლჭყაპი ან თოვლი"
+    U13:
+      eng: "Chance of snow"
+      ge: "მოსალოდნელია თოვლი"
+    U14:
+      eng: "Rain"
+      ge: "წვიმა"
+    U15:
+      eng: "Rain and possible heavy thunderstorm"
+      ge: "წვიმა, მოსალოდნელია ძლიერი ჭექა-ქუხილი"
+    U16:
+      eng: "Heavy rain or sleet"
+      ge: "ძლიერი წვიმა ან თოვლჭყაპი"
+    U17:
+      eng: "Rain and possible thunder"
+      ge: "წვიდა და ჭექა-ქუხილი"
+    U18:
+      eng: "Heavy sleet or snow"
+      ge: "ძლიერი თოვლჭყაპი ან თოვლი"
+    U19:
+      eng: "Light snow"
+      ge: "მცირედი თოვლი"
+    U20:
+      eng: "Chance of sleet or snow"
+      ge: "მოსალოდნელია თოვლჭყაპი ან თოვლი"
+    U21:
+      eng: "Snow"
+      ge: "თოვლი"
+    U21:
+      eng: "Rain or sleet and possible heavy thunder"
+      ge: "წვიმა ან თოვლჭყაპი და შესაძლებელია ჭექა-ქუხილი"

@@ -1,0 +1,90 @@
+City:
+  columns:
+    id:
+      primary: true
+      autoincrement: true
+      type: integer(4)
+    name: 
+      type: string(255)
+      unique: true
+    ge_name as geName: string(255)
+    gid:
+      type: integer(4)
+      notnull: true
+      unique: true
+    parse_url as parseUrl: string(255)
+  relations:
+    DailyWeather:
+      local: id
+      foreign: city_id
+      cascade: [delete]
+      type: many
+    
+DailyWeather:
+  columns:
+    id:
+      primary: true
+      autoincrement: true
+      type: integer(4)
+    city_id:
+      type: integer(4)
+      notnull: true
+    graph: integer(1)
+    max_temperature as maxTemperature: decimal(3,1)
+    min_temperature as minTemperature: decimal(3,1)
+    description: string(255)
+    ge_description as geDescription: string(255)
+    sunrise: time(5)
+    sunset: time(5)
+    day_duration as dayDuration: time(5)
+    date:
+      type: date(10)
+      notnull: true
+  indexes:
+    city_date_unique:
+      fields: [city_id,date]
+      type: unique
+  relations:
+    City:
+      local: city_id
+      foreign: id
+      type: one
+      onDelete: cascade
+    DetailedWeather:
+      local: id
+      foreign: weather_id
+      type: many
+      cascade: [delete]
+DetailedWeather:
+  columns:
+    daytime:
+      primary: true
+      type: enum
+      values: [night, morning, day, evening]
+    weather_id:
+      primary: true
+      type: integer(4)
+      notnull: true
+    time: time(5)
+    graph: integer(1)
+    # clouds in percents
+    cloud: integer(1)
+    temperature: decimal(3,1)
+    description: string(255)
+    # localization
+    ge_description as geDescription: string(255)
+    pressure_mb as pressureMB: decimal(5,1)
+    # covert base 1 mbar = 0.75006375541921 Torr
+    pressure_torr as pressureTorr: decimal(4,1)
+    humidity: integer(1)
+    wind_direction_degrees as windDirectionDegrees:
+      type: integer(2)
+    # conversion base http://climate.umn.edu/snow_fence/Components/winddirectionanddegreeswithouttable3.htm http://www.windfinder.com/wind/windspeed.htm
+    wind_direction_lang as windDirectionLang: string(3)
+    wind_speed as windSpeed: integer(1)
+  relations:
+    DailyWeather:
+      local: weather_id
+      foreign: id
+      type: one
+      onDelete: cascade

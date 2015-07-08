@@ -1,0 +1,284 @@
+GE_Georgia
+AF_Afghanistan
+AL_Albania
+DZ_Algeria
+AS_American Samoa
+AD_Andorra
+AO_Angola
+AI_Anguilla
+AG_Antigua and Barbuda
+AR_Argentina
+AM_Armenia
+AW_Aruba
+AU_Australia
+AT_Austria
+AZ_Azerbaijan
+BS_Bahamas
+BH_Bahrain
+BD_Bangladesh
+BB_Barbados
+BY_Belarus
+BE_Belgium
+BZ_Belize
+BJ_Benin
+BM_Bermuda
+BT_Bhutan
+BO_Bolivia
+BA_Bosnia and Herzegovina
+BW_Botswana
+BR_Brazil
+IO_British Indian Ocean Territory
+VG_British Virgin Islands
+BN_Brunei
+BG_Bulgaria
+BF_Burkina Faso
+BI_Burundi
+KH_Cambodia
+CM_Cameroon
+CA_Canada
+CV_Cape Verde
+KY_Cayman islands
+CF_Central African Republic
+TD_Chad
+CL_Chile
+CN_China
+CX_Christmas Island
+CC_Cocos (Keeling) Islands
+CO_Colombia
+KM_Comoros
+CG_Congo (Brazzaville)
+CD_Congo (Kinshasa)
+CK_Cook Islands
+CR_Costa Rica
+HR_Croatia
+CU_Cuba
+CY_Cyprus
+CZ_Czech Republic
+DK_Denmark
+DJ_Djibouti
+DM_Dominica
+DO_Dominican Republic
+TL_East Timor
+EC_Ecuador
+EG_Egypt
+SV_El Salvador
+GQ_Equatorial Guinea
+ER_Eritrea
+EE_Estonia
+ET_Ethiopia
+MK_F.Y.R.O.M.
+FK_Falkland Islands
+FO_Faroe Islands
+FJ_Fiji
+FI_Finland
+FR_France
+GF_French Guiana
+PF_French Polynesia
+TF_French Southern Territories
+GA_Gabon
+GM_Gambia
+DE_Germany
+GH_Ghana
+GI_Gibraltar
+GR_Greece
+GL_Greenland
+GD_Grenada
+GP_Guadeloupe
+GU_Guam
+GT_Guatemala
+GN_Guinea
+GW_Guinea-Bissau
+GY_Guyana
+HT_Haiti
+HN_Honduras
+HK_Hong Kong
+HU_Hungary
+IS_Iceland
+IN_India
+ID_Indonesia
+IR_Iran
+IQ_Iraq
+IE_Ireland
+IL_Israel
+IT_Italy
+CI_Ivory Coast
+JM_Jamaica
+JP_Japan
+JO_Jordan
+KZ_Kazakhstan
+KE_Kenya
+KI_Kiribati
+KW_Kuwait
+KG_Kyrgyzstan
+LA_Laos
+LV_Latvia
+LB_Lebanon
+LS_Lesotho
+LR_Liberia
+LY_Libya
+LI_Liechtenstein
+LT_Lithuania
+LU_Luxembourg
+MO_Macao
+MG_Madagascar
+MW_Malawi
+MY_Malaysia
+MV_Maldives
+ML_Mali
+MT_Malta
+MH_Marshall Islands
+MQ_Martinique
+MR_Mauritania
+MU_Mauritius
+YT_Mayotte
+MX_Mexico
+FM_Micronesia
+MD_Moldova
+MC_Monaco
+MN_Mongolia
+ME_Montenegro
+MS_Montserrat
+MA_Morocco
+MZ_Mozambique
+MM_Myanmar
+NA_Namibia
+NR_Nauru
+NP_Nepal
+NL_Netherlands
+AN_Netherlands Antilles
+NC_New Caledonia
+NZ_New Zealand
+NI_Nicaragua
+NE_Niger
+NG_Nigeria
+NF_Norfolk Island
+KP_North Korea
+MP_Northern Mariana Islands
+NO_Norway
+OM_Oman
+PK_Pakistan
+PW_Palau
+PS_Palestinian Territory
+PA_Panama
+PG_Papua New Guinea
+PY_Paraguay
+PE_Peru
+PH_Philippines
+PN_Pitcairn
+PL_Poland
+PT_Portugal
+PR_Puerto Rico
+QA_Qatar
+RE_Reunion
+RO_Romania
+RU_Russia
+RW_Rwanda
+SH_Saint Helena
+KN_Saint Kitts and Nevis
+LC_Saint Lucia
+PM_Saint Pierre and Miquelon
+VC_Saint Vincent and the Grenadines
+WS_Samoa
+SM_San Marino
+ST_Sao Tome and Principe
+SA_Saudi Arabia
+SN_Senegal
+RS_Serbia
+SC_Seychelles
+SL_Sierra leone
+SG_Singapore
+SK_Slovakia
+SI_Slovenia
+SB_Solomon Islands
+SO_Somalia
+ZA_South Africa
+GS_South Georgia and The South Sandwich Islands
+KR_South Korea
+ES_Spain
+LK_Sri Lanka
+SD_Sudan
+SR_Suriname
+SJ_Svalbard And Jan Mayen
+SZ_Swaziland
+SE_Sweden
+CH_Switzerland
+SY_Syria
+TW_Taiwan
+TJ_Tajikistan
+TZ_Tanzania
+TH_Thailand
+TG_Togo
+TK_Tokelau
+TO_Tonga
+TT_Trinidad and Tobago
+TN_Tunisia
+TR_Turkey
+TM_Turkmenistan
+TC_Turks and Caicos Islands
+TV_Tuvalu
+VI_U.S. Virgin Islands
+UG_Uganda
+UA_Ukraine
+AE_United Arab Emirates
+GB_United Kingdom
+UY_Uruguay
+USAL_US-Alabama
+USAK_US-Alaska
+USAZ_US-Arizona
+USAR_US-Arkansas
+USCA_US-California
+USCO_US-Colorado
+USCT_US-Connecticut
+USDE_US-Delaware
+USDC_US-District of Columbia
+USFL_US-Florida
+USGA_US-Georgia
+USHI_US-Hawaii
+USID_US-Idaho
+USIL_US-Illinois
+USIN_US-Indiana
+USIA_US-Iowa
+USKS_US-Kansas
+USKY_US-Kentucky
+USLA_US-Louisiana
+USME_US-Maine
+USMD_US-Maryland
+USMA_US-Massachusetts
+USMI_US-Michigan
+USMN_US-Minnesota
+USMS_US-Mississippi
+USMO_US-Missouri
+USMT_US-Montana
+USNE_US-Nebraska
+USNV_US-Nevada
+USNH_US-New Hampshire
+USNJ_US-New Jersey
+USNM_US-New Mexico
+USNY_US-New York
+USNC_US-North Carolina
+USND_US-North Dakota
+USOH_US-Ohio
+USOK_US-Oklahoma
+USOR_US-Oregon
+USPA_US-Pennsylvania
+USRI_US-Rhode Island
+USSC_US-South Carolina
+USSD_US-South Dakota
+USTN_US-Tennessee
+USTX_US-Texas
+USUT_US-Utah
+USVT_US-Vermont
+USVA_US-Virginia
+USWA_US-Washington
+USWV_US-West Virginia
+USWI_US-Wisconsin
+USWY_US-Wyoming
+UZ_Uzbekistan
+VU_Vanuatu
+VE_Venezuela
+VN_Vietnam
+WF_Wallis and Futuna
+EH_Western Sahara
+YE_Yemen
+ZM_Zambia
+ZW_Zimbabwe

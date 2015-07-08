@@ -1,0 +1,828 @@
+EngGeDict:
+    U1:
+      eng: "Few clouds"
+      ge: ""
+    U2:
+      eng: "Partly cloudy skies"
+      ge: "ნაწილობრივ ღრუბლიანი ცა"
+    U3:
+      eng: "Chance of rain"
+      ge: "მოსალოდნელია წვიმა"
+    U4:
+      eng: "Light rain"
+      ge: "მცირედი წვიმა"
+    U5:
+      eng: "Clear weather"
+      ge: "უღრუბლო ამინდი"
+    U6:
+      eng: "Heavy rain"
+      ge: "ძლიერი წვიმა"
+    U7:
+      eng: "Cloudy skies"
+      ge: "ღრუბლიანი ცა"
+    U8:
+      eng: "Chance of rain or sleet"
+      ge: "მოსალოდნელია წვიმა ან სველი თოვლი"
+    U9:
+      eng: "Sleet or snow"
+      ge: "თოვლჭყაპი ან თოვლი"
+    U10:
+      eng: "Light rain or sleet"
+      ge: "მცირედი წვიმა ან თოვლჭყაპი"
+    U11:
+      eng: "Rain or sleet"
+      ge: "წვიმა ან თოვლჭყაპი"
+    U12:
+      eng: "Light sleet or snow"
+      ge: "მცირედი თოვლჭყაპი ან თოვლი"
+    U13:
+      eng: "Chance of snow"
+      ge: "მოსალოდნელია თოვლი"
+    U14:
+      eng: "Rain"
+      ge: "წვიმა"
+    U15:
+      eng: "Rain and possible heavy thunderstorm"
+      ge: "წვიმა, მოსალოდნელია ძლიერი ჭექა-ქუხილი"
+    U16:
+      eng: "Heavy rain or sleet"
+      ge: "ძლიერი წვიმა ან თოვლჭყაპი"
+    U17:
+      eng: "Rain and possible thunder"
+      ge: "წვიდა და ჭექა-ქუხილი"
+    U18:
+      eng: "Heavy sleet or snow"
+      ge: "ძლიერი თოვლჭყაპი ან თოვლი"
+    U19:
+      eng: "Light snow"
+      ge: "მცირედი თოვლი"
+    U20:
+      eng: "Chance of sleet or snow"
+      ge: "მოსალოდნელია თოვლჭყაპი ან თოვლი"
+
+Country:
+    Unnamed:
+      name: "unnamed"
+      code: "un"  
+City:
+    N0:
+      Country: Unnamed
+      name: "Andorra la Vella"
+      gid: 3041563
+      isCapital: true
+      parseUrl: "default.asp?pid=15&gid=3041563&la=1"
+    N1:
+      Country: Unnamed
+      name: "Pas de la Casa"
+      gid: 3039604
+      parseUrl: "default.asp?pid=15&gid=3039604&la=1"
+    N2:
+      Country: Unnamed
+      name: "Buenos Aires"
+      gid: 3435910
+      parseUrl: "default.asp?pid=15&gid=3435910&la=1"
+    N3:
+      Country: Unnamed
+      name: "Cordoba"
+      gid: 3860259
+      parseUrl: "default.asp?pid=15&gid=3860259&la=1"
+    N4:
+      Country: Unnamed
+      name: "Rosario"
+      gid: 3838583
+      parseUrl: "default.asp?pid=15&gid=3838583&la=1"
+    N5:
+      Country: Unnamed
+      name: "Mendoza"
+      gid: 3844421
+      parseUrl: "default.asp?pid=15&gid=3844421&la=1"
+    N6:
+      Country: Unnamed
+      name: "San Miguel de Tucuman"
+      gid: 3836873
+      parseUrl: "default.asp?pid=15&gid=3836873&la=1"
+    N7:
+      Country: Unnamed
+      name: "La Plata"
+      gid: 3432043
+      parseUrl: "default.asp?pid=15&gid=3432043&la=1"
+    N8:
+      Country: Unnamed
+      name: "Mar del Plata"
+      gid: 3430863
+      parseUrl: "default.asp?pid=15&gid=3430863&la=1"
+    N9:
+      Country: Unnamed
+      name: "Salta"
+      gid: 3838233
+      parseUrl: "default.asp?pid=15&gid=3838233&la=1"
+    N10:
+      Country: Unnamed
+      name: "Santa Fe"
+      gid: 3836277
+      parseUrl: "default.asp?pid=15&gid=3836277&la=1"
+    N11:
+      Country: Unnamed
+      name: "San Juan"
+      gid: 3837213
+      parseUrl: "default.asp?pid=15&gid=3837213&la=1"
+    N12:
+      Country: Unnamed
+      name: "Canberra"
+      gid: 2172517
+      parseUrl: "default.asp?pid=15&gid=2172517&la=1"
+    N13:
+      Country: Unnamed
+      name: "Sydney"
+      gid: 2147714
+      parseUrl: "default.asp?pid=15&gid=2147714&la=1"
+    N14:
+      Country: Unnamed
+      name: "Melbourne"
+      gid: 2158177
+      parseUrl: "default.asp?pid=15&gid=2158177&la=1"
+    N15:
+      Country: Unnamed
+      name: "Perth"
+      gid: 2063523
+      parseUrl: "default.asp?pid=15&gid=2063523&la=1"
+    N16:
+      Country: Unnamed
+      name: "Adelaide"
+      gid: 2078025
+      parseUrl: "default.asp?pid=15&gid=2078025&la=1"
+    N17:
+      Country: Unnamed
+      name: "Newcastle"
+      gid: 2155472
+      parseUrl: "default.asp?pid=15&gid=2155472&la=1"
+    N18:
+      Country: Unnamed
+      name: "Wollongong"
+      gid: 2171507
+      parseUrl: "default.asp?pid=15&gid=2171507&la=1"
+    N19:
+      Country: Unnamed
+      name: "Cairns"
+      gid: 2172797
+      parseUrl: "default.asp?pid=15&gid=2172797&la=1"
+    N20:
+      Country: Unnamed
+      name: "Geelong West"
+      gid: 2165796
+      parseUrl: "default.asp?pid=15&gid=2165796&la=1"
+    N21:
+      Country: Unnamed
+      name: "Townsville"
+      gid: 2146142
+      parseUrl: "default.asp?pid=15&gid=2146142&la=1"
+    N22:
+      Country: Unnamed
+      name: "Brussels"
+      gid: 2800866
+      parseUrl: "default.asp?pid=15&gid=2800866&la=1"
+    N23:
+      Country: Unnamed
+      name: "Antwerp"
+      gid: 2803138
+      parseUrl: "default.asp?pid=15&gid=2803138&la=1"
+    N24:
+      Country: Unnamed
+      name: "Gent"
+      gid: 2797656
+      parseUrl: "default.asp?pid=15&gid=2797656&la=1"
+    N25:
+      Country: Unnamed
+      name: "Charleroi"
+      gid: 2800481
+      parseUrl: "default.asp?pid=15&gid=2800481&la=1"
+    N26:
+      Country: Unnamed
+      name: "Liege"
+      gid: 2792413
+      parseUrl: "default.asp?pid=15&gid=2792413&la=1"
+    N27:
+      Country: Unnamed
+      name: "Brugge"
+      gid: 2800931
+      parseUrl: "default.asp?pid=15&gid=2800931&la=1"
+    N28:
+      Country: Unnamed
+      name: "Namur"
+      gid: 2790471
+      parseUrl: "default.asp?pid=15&gid=2790471&la=1"
+    N29:
+      Country: Unnamed
+      name: "Leuven"
+      gid: 2792482
+      parseUrl: "default.asp?pid=15&gid=2792482&la=1"
+    N30:
+      Country: Unnamed
+      name: "Mons"
+      gid: 2790869
+      parseUrl: "default.asp?pid=15&gid=2790869&la=1"
+    N31:
+      Country: Unnamed
+      name: "Aalst"
+      gid: 2803448
+      parseUrl: "default.asp?pid=15&gid=2803448&la=1"
+    N32:
+      Country: Unnamed
+      name: "Minsk"
+      gid: 625144
+      parseUrl: "default.asp?pid=15&gid=625144&la=1"
+    N33:
+      Country: Unnamed
+      name: "Homyel'"
+      gid: 627907
+      parseUrl: "default.asp?pid=15&gid=627907&la=1"
+    N34:
+      Country: Unnamed
+      name: "Hrodna"
+      gid: 627904
+      parseUrl: "default.asp?pid=15&gid=627904&la=1"
+    N35:
+      Country: Unnamed
+      name: "Brest"
+      gid: 629634
+      parseUrl: "default.asp?pid=15&gid=629634&la=1"
+    N36:
+      Country: Unnamed
+      name: "Babruysk"
+      gid: 630468
+      parseUrl: "default.asp?pid=15&gid=630468&la=1"
+    N37:
+      Country: Unnamed
+      name: "Baranavichy"
+      gid: 630429
+      parseUrl: "default.asp?pid=15&gid=630429&la=1"
+    N38:
+      Country: Unnamed
+      name: "Pinsk"
+      gid: 623549
+      parseUrl: "default.asp?pid=15&gid=623549&la=1"
+    N39:
+      Country: Unnamed
+      name: "Orsha"
+      gid: 624079
+      parseUrl: "default.asp?pid=15&gid=624079&la=1"
+    N40:
+      Country: Unnamed
+      name: "Mazyr"
+      gid: 625324
+      parseUrl: "default.asp?pid=15&gid=625324&la=1"
+    N41:
+      Country: Unnamed
+      name: "Salihorsk"
+      gid: 622428
+      parseUrl: "default.asp?pid=15&gid=622428&la=1"
+    N42:
+      Country: Unnamed
+      name: "Beijing"
+      gid: 1816670
+      parseUrl: "default.asp?pid=15&gid=1816670&la=1"
+    N43:
+      Country: Unnamed
+      name: "Shanghai"
+      gid: 1796236
+      parseUrl: "default.asp?pid=15&gid=1796236&la=1"
+    N44:
+      Country: Unnamed
+      name: "Wuhan"
+      gid: 1791247
+      parseUrl: "default.asp?pid=15&gid=1791247&la=1"
+    N45:
+      Country: Unnamed
+      name: "Chongqing"
+      gid: 1814906
+      parseUrl: "default.asp?pid=15&gid=1814906&la=1"
+    N46:
+      Country: Unnamed
+      name: "Chengdu"
+      gid: 1815286
+      parseUrl: "default.asp?pid=15&gid=1815286&la=1"
+    N47:
+      Country: Unnamed
+      name: "Tianjin"
+      gid: 1792947
+      parseUrl: "default.asp?pid=15&gid=1792947&la=1"
+    N48:
+      Country: Unnamed
+      name: "Shenyang"
+      gid: 2034937
+      parseUrl: "default.asp?pid=15&gid=2034937&la=1"
+    N49:
+      Country: Unnamed
+      name: "Harbin"
+      gid: 2037013
+      parseUrl: "default.asp?pid=15&gid=2037013&la=1"
+    N50:
+      Country: Unnamed
+      name: "Guangzhou"
+      gid: 1809858
+      parseUrl: "default.asp?pid=15&gid=1809858&la=1"
+    N51:
+      Country: Unnamed
+      name: "Nanjing"
+      gid: 1799962
+      parseUrl: "default.asp?pid=15&gid=1799962&la=1"
+    N52:
+      Country: Unnamed
+      name: "Ottawa"
+      gid: 6094817
+      parseUrl: "default.asp?pid=15&gid=6094817&la=1"
+    N53:
+      Country: Unnamed
+      name: "Toronto"
+      gid: 6167865
+      parseUrl: "default.asp?pid=15&gid=6167865&la=1"
+    N54:
+      Country: Unnamed
+      name: "Montreal"
+      gid: 6077243
+      parseUrl: "default.asp?pid=15&gid=6077243&la=1"
+    N55:
+      Country: Unnamed
+      name: "Vancouver"
+      gid: 6173331
+      parseUrl: "default.asp?pid=15&gid=6173331&la=1"
+    N56:
+      Country: Unnamed
+      name: "Calgary"
+      gid: 5913490
+      parseUrl: "default.asp?pid=15&gid=5913490&la=1"
+    N57:
+      Country: Unnamed
+      name: "Winnipeg"
+      gid: 6183235
+      parseUrl: "default.asp?pid=15&gid=6183235&la=1"
+    N58:
+      Country: Unnamed
+      name: "Kitchener"
+      gid: 5992996
+      parseUrl: "default.asp?pid=15&gid=5992996&la=1"
+    N59:
+      Country: Unnamed
+      name: "LondonCA"
+      gid: 6058560
+      parseUrl: "default.asp?pid=15&gid=6058560&la=1"
+    N60:
+      Country: Unnamed
+      name: "Victoria"
+      gid: 6174041
+      parseUrl: "default.asp?pid=15&gid=6174041&la=1"
+    N61:
+      Country: Unnamed
+      name: "Halifax"
+      gid: 5969427
+      parseUrl: "default.asp?pid=15&gid=5969427&la=1"
+    N62:
+      Country: Unnamed
+      name: "Brasilia"
+      gid: 3469058
+      parseUrl: "default.asp?pid=15&gid=3469058&la=1"
+    N63:
+      Country: Unnamed
+      name: "Sao Paulo"
+      gid: 3448439
+      parseUrl: "default.asp?pid=15&gid=3448439&la=1"
+    N64:
+      Country: Unnamed
+      name: "Rio de Janeiro"
+      gid: 3451190
+      parseUrl: "default.asp?pid=15&gid=3451190&la=1"
+    N65:
+      Country: Unnamed
+      name: "Salvador"
+      gid: 3450554
+      parseUrl: "default.asp?pid=15&gid=3450554&la=1"
+    N66:
+      Country: Unnamed
+      name: "Belo Horizonte"
+      gid: 3470127
+      parseUrl: "default.asp?pid=15&gid=3470127&la=1"
+    N67:
+      Country: Unnamed
+      name: "Curitiba"
+      gid: 3464975
+      parseUrl: "default.asp?pid=15&gid=3464975&la=1"
+    N68:
+      Country: Unnamed
+      name: "Manaus"
+      gid: 3663517
+      parseUrl: "default.asp?pid=15&gid=3663517&la=1"
+    N69:
+      Country: Unnamed
+      name: "Recife"
+      gid: 3390760
+      parseUrl: "default.asp?pid=15&gid=3390760&la=1"
+    N70:
+      Country: Unnamed
+      name: "Belem"
+      gid: 3405870
+      parseUrl: "default.asp?pid=15&gid=3405870&la=1"
+    N71:
+      Country: Unnamed
+      name: "Porto Alegre"
+      gid: 3452925
+      parseUrl: "default.asp?pid=15&gid=3452925&la=1"
+    N72:
+      Country: Unnamed
+      name: "Cairo"
+      gid: 360630
+      parseUrl: "default.asp?pid=15&gid=360630&la=1"
+    N73:
+      Country: Unnamed
+      name: "Alexandria"
+      gid: 361058
+      parseUrl: "default.asp?pid=15&gid=361058&la=1"
+    N74:
+      Country: Unnamed
+      name: "Suez"
+      gid: 359796
+      parseUrl: "default.asp?pid=15&gid=359796&la=1"
+    N75:
+      Country: Unnamed
+      name: "Al Mahallah al Kubra"
+      gid: 360829
+      parseUrl: "default.asp?pid=15&gid=360829&la=1"
+    N76:
+      Country: Unnamed
+      name: "Luxor"
+      gid: 360502
+      parseUrl: "default.asp?pid=15&gid=360502&la=1"
+    N77:
+      Country: Unnamed
+      name: "Asyut"
+      gid: 359783
+      parseUrl: "default.asp?pid=15&gid=359783&la=1"
+    N78:
+      Country: Unnamed
+      name: "Al Mansurah"
+      gid: 360761
+      parseUrl: "default.asp?pid=15&gid=360761&la=1"
+    N79:
+      Country: Unnamed
+      name: "Al Fayyum"
+      gid: 361320
+      parseUrl: "default.asp?pid=15&gid=361320&la=1"
+    N80:
+      Country: Unnamed
+      name: "Az Zaqaziq"
+      gid: 359493
+      parseUrl: "default.asp?pid=15&gid=359493&la=1"
+    N81:
+      Country: Unnamed
+      name: "Ismailia"
+      gid: 361055
+      parseUrl: "default.asp?pid=15&gid=361055&la=1"
+    N82:
+      Country: Unnamed
+      name: "Nicosia"
+      gid: 146268
+      parseUrl: "default.asp?pid=15&gid=146268&la=1"
+    N83:
+      Country: Unnamed
+      name: "Limassol"
+      gid: 146384
+      parseUrl: "default.asp?pid=15&gid=146384&la=1"
+    N84:
+      Country: Unnamed
+      name: "Larnaca"
+      gid: 146400
+      parseUrl: "default.asp?pid=15&gid=146400&la=1"
+    N85:
+      Country: Unnamed
+      name: "Famagusta"
+      gid: 146617
+      parseUrl: "default.asp?pid=15&gid=146617&la=1"
+    N86:
+      Country: Unnamed
+      name: "Paphos"
+      gid: 146214
+      parseUrl: "default.asp?pid=15&gid=146214&la=1"
+    N87:
+      Country: Unnamed
+      name: "Morphou"
+      gid: 146286
+      parseUrl: "default.asp?pid=15&gid=146286&la=1"
+    N88:
+      Country: Unnamed
+      name: "Rizokarpaso"
+      gid: 146105
+      parseUrl: "default.asp?pid=15&gid=146105&la=1"
+    N89:
+      Country: Unnamed
+      name: "Lefkoniko"
+      gid: 146391
+      parseUrl: "default.asp?pid=15&gid=146391&la=1"
+    N90:
+      Country: Unnamed
+      name: "Lythrodhondas"
+      gid: 146358
+      parseUrl: "default.asp?pid=15&gid=146358&la=1"
+    N91:
+      Country: Unnamed
+      name: "Polis"
+      gid: 146137
+      parseUrl: "default.asp?pid=15&gid=146137&la=1"
+    N92:
+      Country: Unnamed
+      name: "Berlin"
+      gid: 2950159
+      parseUrl: "default.asp?pid=15&gid=2950159&la=1"
+    N93:
+      Country: Unnamed
+      name: "Hamburg"
+      gid: 2911298
+      parseUrl: "default.asp?pid=15&gid=2911298&la=1"
+    N94:
+      Country: Unnamed
+      name: "Munich"
+      gid: 2867714
+      parseUrl: "default.asp?pid=15&gid=2867714&la=1"
+    N95:
+      Country: Unnamed
+      name: "Cologne"
+      gid: 2886242
+      parseUrl: "default.asp?pid=15&gid=2886242&la=1"
+    N96:
+      Country: Unnamed
+      name: "Essen"
+      gid: 2928810
+      parseUrl: "default.asp?pid=15&gid=2928810&la=1"
+    N97:
+      Country: Unnamed
+      name: "Stuttgart"
+      gid: 2825297
+      parseUrl: "default.asp?pid=15&gid=2825297&la=1"
+    N98:
+      Country: Unnamed
+      name: "Dortmund"
+      gid: 2935517
+      parseUrl: "default.asp?pid=15&gid=2935517&la=1"
+    N99:
+      Country: Unnamed
+      name: "Dusseldorf"
+      gid: 2934246
+      parseUrl: "default.asp?pid=15&gid=2934246&la=1"
+    N100:
+      Country: Unnamed
+      name: "Bremen"
+      gid: 2944388
+      parseUrl: "default.asp?pid=15&gid=2944388&la=1"
+    N101:
+      Country: Unnamed
+      name: "Hannover"
+      gid: 2910831
+      parseUrl: "default.asp?pid=15&gid=2910831&la=1"
+    N102:
+      Country: Unnamed
+      name: "Moscow"
+      gid: 524901
+      parseUrl: "default.asp?pid=15&gid=524901&la=1"
+    N103:
+      Country: Unnamed
+      name: "Saint Petersburg"
+      gid: 498817
+      parseUrl: "default.asp?pid=15&gid=498817&la=1"
+    N104:
+      Country: Unnamed
+      name: "Novosibirsk"
+      gid: 1496747
+      parseUrl: "default.asp?pid=15&gid=1496747&la=1"
+    N105:
+      Country: Unnamed
+      name: "Yekaterinburg"
+      gid: 1486209
+      parseUrl: "default.asp?pid=15&gid=1486209&la=1"
+    N106:
+      Country: Unnamed
+      name: "Nizhniy Novgorod"
+      gid: 520555
+      parseUrl: "default.asp?pid=15&gid=520555&la=1"
+    N107:
+      Country: Unnamed
+      name: "Samara"
+      gid: 499099
+      parseUrl: "default.asp?pid=15&gid=499099&la=1"
+    N108:
+      Country: Unnamed
+      name: "Omsk"
+      gid: 1496153
+      parseUrl: "default.asp?pid=15&gid=1496153&la=1"
+    N109:
+      Country: Unnamed
+      name: "Kazan'"
+      gid: 551487
+      parseUrl: "default.asp?pid=15&gid=551487&la=1"
+    N110:
+      Country: Unnamed
+      name: "Rostov-na-Donu"
+      gid: 501175
+      parseUrl: "default.asp?pid=15&gid=501175&la=1"
+    N111:
+      Country: Unnamed
+      name: "Chelyabinsk"
+      gid: 1508291
+      parseUrl: "default.asp?pid=15&gid=1508291&la=1"
+    N112:
+      Country: Unnamed
+      name: "Rome"
+      gid: 3169070
+      parseUrl: "default.asp?pid=15&gid=3169070&la=1"
+    N113:
+      Country: Unnamed
+      name: "Milan"
+      gid: 3173435
+      parseUrl: "default.asp?pid=15&gid=3173435&la=1"
+    N114:
+      Country: Unnamed
+      name: "Naples"
+      gid: 3172394
+      parseUrl: "default.asp?pid=15&gid=3172394&la=1"
+    N115:
+      Country: Unnamed
+      name: "Turin"
+      gid: 3165524
+      parseUrl: "default.asp?pid=15&gid=3165524&la=1"
+    N116:
+      Country: Unnamed
+      name: "Palermo"
+      gid: 2523920
+      parseUrl: "default.asp?pid=15&gid=2523920&la=1"
+    N117:
+      Country: Unnamed
+      name: "Genoa"
+      gid: 3176219
+      parseUrl: "default.asp?pid=15&gid=3176219&la=1"
+    N118:
+      Country: Unnamed
+      name: "Bologna"
+      gid: 3181928
+      parseUrl: "default.asp?pid=15&gid=3181928&la=1"
+    N119:
+      Country: Unnamed
+      name: "Florence"
+      gid: 3176959
+      parseUrl: "default.asp?pid=15&gid=3176959&la=1"
+    N120:
+      Country: Unnamed
+      name: "Bari"
+      gid: 3182351
+      parseUrl: "default.asp?pid=15&gid=3182351&la=1"
+    N121:
+      Country: Unnamed
+      name: "Catania"
+      gid: 2525068
+      parseUrl: "default.asp?pid=15&gid=2525068&la=1"
+    N122:
+      Country: Unnamed
+      name: "Tokyo"
+      gid: 1850147
+      parseUrl: "default.asp?pid=15&gid=1850147&la=1"
+    N123:
+      Country: Unnamed
+      name: "Yokohama"
+      gid: 1848354
+      parseUrl: "default.asp?pid=15&gid=1848354&la=1"
+    N124:
+      Country: Unnamed
+      name: "Osaka"
+      gid: 1853909
+      parseUrl: "default.asp?pid=15&gid=1853909&la=1"
+    N125:
+      Country: Unnamed
+      name: "Nagoya"
+      gid: 1856057
+      parseUrl: "default.asp?pid=15&gid=1856057&la=1"
+    N126:
+      Country: Unnamed
+      name: "Sapporo"
+      gid: 2128295
+      parseUrl: "default.asp?pid=15&gid=2128295&la=1"
+    N127:
+      Country: Unnamed
+      name: "Kobe"
+      gid: 1859171
+      parseUrl: "default.asp?pid=15&gid=1859171&la=1"
+    N128:
+      Country: Unnamed
+      name: "Kyoto"
+      gid: 1857910
+      parseUrl: "default.asp?pid=15&gid=1857910&la=1"
+    N129:
+      Country: Unnamed
+      name: "Fukuoka"
+      gid: 1863967
+      parseUrl: "default.asp?pid=15&gid=1863967&la=1"
+    N130:
+      Country: Unnamed
+      name: "Hiroshima"
+      gid: 1862415
+      parseUrl: "default.asp?pid=15&gid=1862415&la=1"
+    N131:
+      Country: Unnamed
+      name: "Yono"
+      gid: 1848254
+      parseUrl: "default.asp?pid=15&gid=1848254&la=1"
+    N132:
+      Country: Unnamed
+      name: "Paris"
+      gid: 2988507
+      parseUrl: "default.asp?pid=15&gid=2988507&la=1"
+    N133:
+      Country: Unnamed
+      name: "Marseille"
+      gid: 2995469
+      parseUrl: "default.asp?pid=15&gid=2995469&la=1"
+    N134:
+      Country: Unnamed
+      name: "Lyon"
+      gid: 2996944
+      parseUrl: "default.asp?pid=15&gid=2996944&la=1"
+    N135:
+      Country: Unnamed
+      name: "Toulouse"
+      gid: 2972315
+      parseUrl: "default.asp?pid=15&gid=2972315&la=1"
+    N136:
+      Country: Unnamed
+      name: "Nice"
+      gid: 2990440
+      parseUrl: "default.asp?pid=15&gid=2990440&la=1"
+    N137:
+      Country: Unnamed
+      name: "Nantes"
+      gid: 2990969
+      parseUrl: "default.asp?pid=15&gid=2990969&la=1"
+    N138:
+      Country: Unnamed
+      name: "Strasbourg"
+      gid: 2973783
+      parseUrl: "default.asp?pid=15&gid=2973783&la=1"
+    N139:
+      Country: Unnamed
+      name: "Montpellier"
+      gid: 2992166
+      parseUrl: "default.asp?pid=15&gid=2992166&la=1"
+    N140:
+      Country: Unnamed
+      name: "Bordeaux"
+      gid: 3031582
+      parseUrl: "default.asp?pid=15&gid=3031582&la=1"
+    N141:
+      Country: Unnamed
+      name: "Lille"
+      gid: 2998324
+      parseUrl: "default.asp?pid=15&gid=2998324&la=1"
+    N142:
+      Country: Unnamed
+      name: "London"
+      gid: 2643743
+      parseUrl: "default.asp?pid=15&gid=2643743&la=1"
+    N143:
+      Country: Unnamed
+      name: "Birmingham"
+      gid: 2655603
+      parseUrl: "default.asp?pid=15&gid=2655603&la=1"
+    N144:
+      Country: Unnamed
+      name: "Glasgow"
+      gid: 2648579
+      parseUrl: "default.asp?pid=15&gid=2648579&la=1"
+    N145:
+      Country: Unnamed
+      name: "Liverpool"
+      gid: 2644210
+      parseUrl: "default.asp?pid=15&gid=2644210&la=1"
+    N146:
+      Country: Unnamed
+      name: "Leeds"
+      gid: 2644688
+      parseUrl: "default.asp?pid=15&gid=2644688&la=1"
+    N147:
+      Country: Unnamed
+      name: "Sheffield"
+      gid: 2638077
+      parseUrl: "default.asp?pid=15&gid=2638077&la=1"
+    N148:
+      Country: Unnamed
+      name: "Edinburgh"
+      gid: 2650225
+      parseUrl: "default.asp?pid=15&gid=2650225&la=1"
+    N149:
+      Country: Unnamed
+      name: "Bristol"
+      gid: 2654675
+      parseUrl: "default.asp?pid=15&gid=2654675&la=1"
+    N150:
+      Country: Unnamed
+      name: "Manchester"
+      gid: 2643123
+      parseUrl: "default.asp?pid=15&gid=2643123&la=1"
+    N151:
+      Country: Unnamed
+      name: "Leicester"
+      gid: 2644668
+      parseUrl: "default.asp?pid=15&gid=2644668&la=1"
